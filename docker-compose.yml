@@ -10,7 +10,6 @@ version: "3.8"
 # otherwise, when we stop the Docker container and start it again, everything would
 # recreated from scratch from the image
 
-
 services:
 
   database:
@@ -21,14 +20,15 @@ services:
       - POSTGRES_PASSWORD=prospectdb
     image: postgres:13.2
     ports:
-      - "5433:5432"
+      - 5433:5432
+    expose:
+      - 5432
     volumes:
       - prospect-database:/var/lib/postgresql/data
 
 
 # the 'environment' property defines env variables to be used in the
 #  server container's runtime environment
-
 
   server:
     build:
@@ -37,12 +37,12 @@ services:
     depends_on:
       - database
     environment:
-      - POSTGRES_ENGINE=django.db.backends.postgresql
-      - POSTGRES_DATABASE=prospect
-      - POSTGRES_USER=prospect
-      - POSTGRES_PASSWORD=prospect
-      - POSTGRES_HOST=prospect-database
-      - POSTGRES_PORT=5432
+      - SQL_ENGINE=django.db.backends.postgresql
+      - SQL_DATABASE=prospectdb
+      - SQL_USER=prospectdb
+      - SQL_PASSWORD=prospectdb
+      - SQL_HOST=prospect-database
+      - SQL_PORT=5432
     command: [ "bash", "start.sh" ]
     ports:
       - 8003:8000

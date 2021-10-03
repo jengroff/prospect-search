@@ -10,10 +10,10 @@ WORKDIR /usr/src/app
 ENV PYTHONUNBUFFERED 1
 ENV PYTHONDONTWRITEBYTECODE 1
 
-# install system dependencies
-RUN apt-get update \
-  && apt-get -y install netcat gcc postgresql \
-  && apt-get clean
+## install system dependencies
+#RUN apt-get update \
+#  && apt-get -y install netcat gcc postgresql \
+#  && apt-get clean
 
 # install python dependencies
 COPY ./requirements.txt .
