@@ -1,0 +1,21 @@
+[
+    {
+        "model": "prospectdb.Prospect",
+        "fields": {
+            "email": "bruce.wayne@gmail.com",
+            "first_name": "Bruce",
+            "last_name": "Wayne",
+            "phone": "1-800-BAT-MAN1",
+            "birthday": null,
+            "gender": "Male",
+            "story": "Bruce Wayne is THE BATMAN",
+            "occupation": "crime fighter",
+            "country": "US",
+            "region": "New York",
+            "city": "Gotham",
+            "ethnicity": "White",
+            "registered_at": null,
+            "created_at": null
+        }
+    }
+]

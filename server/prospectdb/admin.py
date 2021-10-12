@@ -7,17 +7,19 @@ from .models import Prospect
 class ProspectAdmin(admin.ModelAdmin):
     fields = ('id',
               'email',
-              'password',
               'first_name',
               'last_name',
               'phone',
               'birthday',
+              'story',
+              'occupation',
               'gender',
-              'bio',
               'ethnicity',
               'country',
               'city',
-              'region')
+              'region',
+              'registered_at',
+              'created_at')
 
     list_display = ('id',
                     'email',
