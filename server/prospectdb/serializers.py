@@ -41,4 +41,4 @@ class ConversationMessageSerializer(serializers.ModelSerializer):
     """
     class Meta:
         model = ConversationMessage
-        fields = ('id', 'text', 'created_at', 'conversation_stream_id')
+        fields = ('id', 'text', 'conversation_stream_id')

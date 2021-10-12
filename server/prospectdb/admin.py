@@ -102,8 +102,8 @@ class ConversationStreamAdmin(admin.ModelAdmin):
 
 @admin.register(ConversationMessage)
 class ConversationMessageAdmin(admin.ModelAdmin):
-    fields = ('id', 'text', 'created_at', 'conversation_stream_id')
+    fields = ('id', 'text', 'conversation_stream_id')
     list_display = ('id', 'text', 'conversation_stream_id')
     list_filter = ('text', 'conversation_stream_id')
     ordering = ('id',)
-    readonly_fields = ('id', 'created_at')
+    readonly_fields = ('id',)

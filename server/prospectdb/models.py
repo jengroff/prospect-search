@@ -54,7 +54,7 @@ class Question(models.Model):
 
 
 class Group(models.Model):
-    id = models.IntegerField(primary_key=True, auto_created=True, editable=False, null=True)
+    id = models.IntegerField(primary_key=True, auto_created=True, editable=False)
     name = models.CharField(max_length=128, null=True)
     created_at = models.DateTimeField(auto_now_add=True, null=True)
     study_instructions = models.TextField(null=True)
@@ -91,12 +91,12 @@ class ConversationStream(models.Model):
 class ConversationMessage(models.Model):
     id = models.IntegerField(primary_key=True, editable=False)
     text = models.TextField(null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
     conversation_stream_id = models.ForeignKey(
         ConversationStream,
         on_delete=models.CASCADE,
         related_name="groups",
-        related_query_name="group"
+        related_query_name="group",
+        null=True
     )
 
     def __str__(self):
