@@ -22,7 +22,7 @@ import debug_toolbar
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/v1/prospectdb/', include('prospectdb.urls'))
+    path('api/v1/', include('prospectdb.urls'))
 ]
 
 if settings.DEBUG or settings.TESTING_MODE:
