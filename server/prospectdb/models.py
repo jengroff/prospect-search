@@ -54,15 +54,13 @@ class Question(models.Model):
 
 
 class Group(models.Model):
-    id = models.IntegerField(primary_key=True, auto_created=True, editable=False)
+    id = models.UUIDField(default=uuid.uuid4, editable=False, primary_key=True, serialize=False)
     name = models.CharField(max_length=128, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
-    study_instructions = models.TextField(null=True)
     study_id = models.ForeignKey(Study,
                                  on_delete=models.CASCADE,
                                  related_name="groups",
-                                 related_query_name="group",
-                                 null=True)
+                                 related_query_name="group"
+                                 )
 
     def __str__(self):
         return f'{self.name}'

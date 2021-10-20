@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Prospect, Team, Study, Question, Group, Participant, ConversationStream, ConversationMessage
+from .models import Prospect, Team, Study, Question, Participant, Group, ConversationStream, ConversationMessage
 
 
 @admin.register(Prospect)
@@ -76,18 +76,18 @@ class QuestionAdmin(admin.ModelAdmin):
 
 @admin.register(Group)
 class GroupAdmin(admin.ModelAdmin):
-    fields = ('id', 'name', 'created_at', 'study_instructions', 'study_id')
+    fields = ('id', 'name', 'study_id')
     list_display = ('id', 'name', 'study_id')
     list_filter = ('name', 'study_id')
     ordering = ('study_id',)
-    readonly_fields = ('id', 'created_at')
+    readonly_fields = ('id',)
 
 
 @admin.register(Participant)
 class ParticipantAdmin(admin.ModelAdmin):
-    fields = ('id', 'created_at', 'group_id', 'prospect_id')
-    list_display = ('id', 'group_id', 'prospect_id')
-    list_filter = ('group_id', 'prospect_id')
+    fields = ('id', 'created_at', 'prospect_id', 'group_id')
+    list_display = ('id', 'prospect_id', 'group_id')
+    list_filter = ('prospect_id',)
     ordering = ('prospect_id',)
     readonly_fields = ('id', 'created_at')
 

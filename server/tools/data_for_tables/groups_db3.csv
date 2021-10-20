@@ -1,0 +1,927 @@
+,id,name,study_id
+0,004f69d7-26b6-4da5-9f3d-7dcb46586952,Unassigned,296
+1,00e678af-c50c-4ba2-a263-120ee01e69f7,Steven,218
+2,00fbac87-5bb4-4c4e-b8d0-70908ba5688d,Unassigned,222
+3,01071d33-62e7-43df-8091-1cfcb0f73491,Unassigned,291
+4,012cf6bf-cd41-4d84-a309-e29bab31c31f,Ambivalent 25-34,156
+5,01523348-9943-4dab-8bd3-a331f2d145c8,Thailand,327
+6,016e226d-a7da-4dfe-969e-d87bfca565cd,Unassigned,96
+7,018d246e-7d7e-4dea-8a5a-39a929fbb44d,Gen Z,171
+8,019bafc9-6a1f-4033-b0f9-d8780b85b02e,Unassigned,160
+9,01e8ef00-0d08-471e-b25c-9c4ce6d1a952,Parents,164
+10,0221b23b-fbcb-4120-96f3-7e9101142ebc,Gammas,112
+11,0226c330-94c6-403c-9c01-46f0dc92c29c,Upperclassmen,317
+12,02ae695f-4d11-4cfe-af96-f31e37aba89b,Non Freshman,225
+13,02b53bfd-8929-4b5f-b9e3-d1d006e8e5e9,Freshman,174
+14,02b6f949-d64d-443a-b41d-db378281fae1,Unassigned,86
+15,0316ef2a-a295-45f6-bac4-7dc06fc0b57e,Unassigned,31
+16,035186b7-a76b-4058-835b-1a4d14e054d9,Test Participants,10
+17,036f33b1-f826-43da-9c2c-ea484ae6b7a1,Unassigned,242
+18,03a72b26-05a7-4676-9e97-da15dc96d633,Unassigned,63
+19,04266f3e-1fc6-4511-81c6-eae24140859b,Unassigned,4
+20,043d03a2-cc39-4148-a755-6fe2c2a94c78,24-35 Explorers Regular Drinkers,274
+21,044839b5-bbb1-405e-bac4-0a5db3fe14ea,Korean Participants,303
+22,0485de5d-5539-4bd5-b059-fd2bf9ce7772,Korean Participants,276
+23,04874e7c-bbd5-4caf-b6ab-90b48f08fd97,Indiana,280
+24,04a4de35-9aae-4a95-bca1-8eb27e561d6e,Group 2,299
+25,04bf1e34-88c6-4514-bf83-e56992302ab4,Unassigned,215
+26,04eb74de-3998-4c15-83e5-e991d4b96aeb,Unassigned,210
+27,0534131e-ca9a-4d02-a9bd-9f29fff44640,Non-Moms,8
+28,05353d56-5643-44cd-b92d-3ca8aa39c2e1,Ambivalent,160
+29,053aabac-2977-4572-87c9-d0715dac7c78,Beauty Lovers,70
+30,057d3b9b-33af-4f13-9e1d-5ef2e6f7889b,Northwest,245
+31,05982592-ab12-4e69-acc6-7df81085d8ae,Unassigned,24
+32,0599ee8f-1d7a-406a-8002-c30d79fa74e2,Core Guest - In Store (Shopping for Female),241
+33,060f2eb0-277a-4521-b18e-56fff2c0200d,Friends of Markus,26
+34,070646f8-e76b-4424-8776-14e21ee81811,Unassigned,76
+35,0711f1ec-a46d-4605-ba59-5e9de81f6cc7,Unassigned,97
+36,07769581-314a-4dc1-9ff1-a5afb6c45ec2,RTW Over 35,163
+37,07d2e830-717f-47ee-841a-d60b69428c2a,Unassigned,232
+38,08ba899d-3178-41b6-9327-cd8029a11cb2,New Regular,307
+39,099cc04c-8fb6-4028-a0b3-c0ab2556e003,Canada,208
+40,09dda743-26ba-4cbc-a3ff-aa80949ee795,Unassigned,26
+41,09fbf153-3fe9-49ce-84b5-0fd0edafb27d,High Value 45-54,156
+42,0a34b53a-af41-41d2-8af6-4704674b3935,A-C,66
+43,0a5c3824-8f41-4f3e-9c74-32f85cb314ab,In Process of Purchasing,244
+44,0a627668-30e7-4914-99ec-4eecae2379ec,Unassigned,139
+45,0af72819-44f8-499c-90b3-daebfa49e357,Freshman,196
+46,0b0148db-20b2-44aa-a3d3-3f2b1d5314f8,Participants,188
+47,0b285fd3-bda8-494c-aad4-551ca19828a9,Unassigned,257
+48,0b733bc5-1018-4928-a29f-5bd073348f31,Freshman,119
+49,0b81c66a-4596-495f-8719-8486786433c1,Dover,55
+50,0b83a1b3-9645-4640-a367-0e918c58f920,Freshman,225
+51,0bac4617-9636-4156-8108-ce9cab3d9511,Juniors,58
+52,0bbcbe8b-9587-4aff-a5d4-c43bbd2f6538,Unassigned,71
+53,0bec7b01-d79e-4259-968a-d5cd7d74b46b,Unassigned,310
+54,0c53eee0-4cde-4720-bed1-af0a0c35a719,Lapsed,199
+55,0cec8069-ba6e-41d3-8041-57ffb11c9007,Unassigned,102
+56,0daeabf0-4da8-438a-886d-09d56f09782f,CHANEL Buyers,264
+57,0e2b91a1-0b4a-40d7-9ed8-d4832b68dced,Travelers with Children,39
+58,0e4fac15-d914-45cf-b5e2-06a79bbc2494,Net New,242
+59,0eb8f11e-8971-4dbc-ad72-27343e61c248,Unassigned,154
+60,0ebeb4f6-6f2f-4f64-8ec8-dcfeb1888ee6,35-45,178
+61,0ec6263a-5d65-41a3-949b-409784cea033,Non Freshman,204
+62,10091351-307b-4b86-802b-f337b7e3bdcb,Unassigned,181
+63,104c0a9f-0437-4f52-ad39-e9e51686b2ea,Unassigned,155
+64,1067ccd9-96ed-4bb5-aee3-9beb342deb6a,Unassigned,65
+65,1133cf51-122a-4472-be74-05363ebe9af4,Freshman,136
+66,115718ee-304c-4c61-bcb7-4271cec53cb9,Manufacturing End Users,94
+67,11624d35-4de7-49dd-8012-8293895726fc,Unassigned,9
+68,11a755c1-8cf7-402c-a89a-fb1d87795359,Non Freshmen,145
+69,11b764e2-ab59-4a2c-abb4-89c561b90cd0,Women,80
+70,1204a9fb-de69-4e75-92a7-91ad9e5d1a3a,3 Bilingual Non-Light Drinker,246
+71,12193b63-f2a3-40b0-9bb4-8ad98437f488,Unassigned,151
+72,122cc754-b501-4a6b-ae0a-11a23c28b3b4,American Participants,46
+73,127c572a-edf7-40f1-83ef-ee861cb2b66d,1 Bilingual Non-Light Drinker,2
+74,12b7d190-3ba8-4e15-bef2-a77515669bd7,Unassigned,309
+75,12c5953f-b1ee-4b9e-a8d5-1f86f5686c77,Unassigned,141
+76,133d8717-69bf-47b6-869d-8d4d84d8f051,Unassigned,7
+77,13a9fe24-1297-407c-80be-75cfa606b887,Sophomores,317
+78,13f390e9-620a-4230-ba7d-11336ca75f92,Unassigned,94
+79,1432b492-4a47-455a-b02e-a5c534241361,Unassigned,109
+80,14f87f80-ae73-42e1-8f76-37f7d0dc4433,Seoul,239
+81,15790a0e-1f1d-49d2-a8ae-0fa42e51175c,Mexico,333
+82,157ef31c-7f16-4a21-a7c1-64c2836c62d6,Unassigned,200
+83,15c360d5-c0da-495c-aecc-b61e7b822582,Current Guests - France,143
+84,15f76977-fa9f-46e9-9f70-95b05f271c6c,Poland,331
+85,160ef33f-e456-47e6-b5d7-bfa3328f308a,Sophomores,319
+86,162b68dc-c9cb-4b65-8d9f-aa47c543db7a,Unassigned,106
+87,162ced5d-6055-4198-98d4-a64f978402aa,Unassigned,224
+88,165f9839-7ff3-4e70-9806-ea6537d42d6f,Unassigned,51
+89,16f5bf6b-3256-4f8e-b974-dcf663cb3bc9,Handbag Under 35,163
+90,17219374-5465-470f-8bc2-333dfa91687c,Students 15-18,230
+91,1776e29f-26ba-419c-8f1f-943b0f038e5f,Unassigned,175
+92,177f70d9-edc1-4523-b22e-38b3b2d3d40a,Unassigned,70
+93,1785a45e-803a-4c87-b3dc-62401f5c4d69,Did Not Receive Catalogs,168
+94,17b825d5-d10d-47e8-af1a-5cb414f4a53b,Gen Z Fashion,273
+95,17d16c12-dd38-488e-bc39-2b775f35c78a,Non Freshman,119
+96,18093250-e8cc-4ee3-8c70-75a1f7790797,Other Offsite,217
+97,18109fd8-d9c4-4699-9343-d0ba0657ffb2,Non-Lululemon Purchasers,166
+98,1883fa81-5d30-4df8-939a-b1f396678238,Women,140
+99,18d3973d-a9b9-48ae-afe2-cac6fb558858,Unassigned,236
+100,194c6b75-64df-4b04-8bfc-f25b6fe6d4f8,Anna,152
+101,194d394f-49ba-4d74-b278-dc8aa0986e33,Core (Heavy),195
+102,197b1365-5b45-43fe-b144-9cae54a61686,Non Freshmen,137
+103,19c3913b-e2bc-4c93-be01-c3bcf7eb9a45,51-65 yr olds,1
+104,19d293b8-79d8-46bd-836c-1085df589871,US Prospects (Size 22-26),235
+105,19d36f3e-debb-40bf-af9c-02811f1293d8,Unassigned,220
+106,1a6f6f59-d12d-4a03-b692-eef1ffab148d,Participants,118
+107,1a714306-8a68-442a-bc7e-b8a05ed40c9e,Main Campus,314
+108,1ab010e0-fe43-4d8c-878f-de7e3eb80ebe,UK iPhone Older,211
+109,1b4083d1-4159-4bb4-b444-a8357c207403,Unassigned,132
+110,1b47b3bb-30d4-4d8e-ac86-eb8240307e66,Unassigned,128
+111,1bcca579-2e1f-4c54-baa3-08fbf03dc01d,Novelty Sock Buyers,130
+112,1bd0059c-c89e-4da3-b008-46515df302d1,Unassigned,15
+113,1bf63f7d-6723-41b4-8485-a78ce53ce59d,Current Guests,124
+114,1bf6e090-b36d-49d9-b54a-254dd6c54269,U.S. HVG - Male,219
+115,1c5fbd17-5c56-4966-b842-038985378f7b,Unassigned,263
+116,1c697ea7-2fc1-4db9-87e4-a501a245b3f0,Non Freshman,149
+117,1d50bd90-1d5e-4fb1-a724-26c49b3f5f09,Preowned,199
+118,1d77fc44-b42e-40a7-8a41-61d6c36dd50f,Men,158
+119,1e7a353a-aeb8-4c9e-b1d9-e3941919d2bf,Unassigned,123
+120,1ec8823c-2fbf-4dea-9007-077a8d7789dd,Alphas,111
+121,1ef61ab1-2895-47ad-b2db-1f6713c10490,Unassigned,216
+122,1f36fead-c719-42e3-ad8e-d81cfcc40efb,Non-protein drinkers,226
+123,1fd7db22-f77a-4151-8a91-bc0dd6c23493,Holistic Online,181
+124,1fd996ee-fa11-4e59-8701-2f65856669b4,Gen X Fashion,294
+125,1ffb2846-e7e0-493d-9149-9a2fa39b02e3,Non-Frappe Drinkers,90
+126,200e3569-9e17-4a4d-a08a-31dfee3e2851,Freshman,319
+127,200e93f8-623f-4a2c-a4f0-5d6dac29d8dd,Aspirants,266
+128,20204974-42d7-4cf9-8140-c5b54d042fa5,Brazil,330
+129,208cd89c-d96c-4b53-bd6c-37b592143346,Unassigned,172
+130,216d3e26-6783-438a-b490-14f7afcbcb8b,Unassigned,253
+131,22017d7c-cb17-49ee-aedf-c40a950c274a,Potential Guests,124
+132,221eb572-24e3-4980-ae8a-ee4ced48d784,Unassigned,88
+133,222152e4-cdd9-4a78-91dc-13da68ddce91,newData,228
+134,2239a8e3-7d88-4364-bb34-5d399c0b5725,RTW Under 35,163
+135,2266bf88-567b-471c-8b67-efd98bb1eaeb,Unassigned,229
+136,22ddf4b5-d0a4-4388-8887-3939bb382e35,Sienna,255
+137,2312de63-eebd-40e8-942b-d852715fade6,Unassigned,8
+138,236bdee1-f026-4141-aa84-8d54c99747fd,Unassigned,256
+139,23fa329b-d141-4522-9990-04e6b88ddf0d,Indiana,229
+140,240c2872-5e18-45d1-a7d8-4d930b3a4f6b,Unassigned,112
+141,253f62f1-2661-42af-acd5-18d457918fa1,Participants,122
+142,2593db92-309e-43fe-8c3e-984c9f8444f5,Susquehanna,280
+143,25b33042-8034-4f03-8228-1a9d1d8843cf,Unassigned,40
+144,25eab1d6-920c-47b9-bc91-9cd820840d28,Unassigned,290
+145,2602e72f-004f-4e88-af94-346fafb23c33,Non Freshman,146
+146,267a289b-579c-43c3-80ad-c343afd32555,Unassigned,206
+147,26a27640-90ee-40ff-ad31-59ffb8434acd,Dover,56
+148,26e84d94-0f2d-4631-ba16-e0b27f2cd9c5,Unassigned,10
+149,2731330f-7c1b-4e4d-ab43-bfa8bb267cb2,Participants,165
+150,273fc706-0906-4176-baae-609972eb2bed,Essential Workers,212
+151,27a5355a-93d2-4430-a1a1-c6e294289021,Unassigned,108
+152,27f703fe-4090-41b8-8229-0f5c04bd9b60,40 and over,252
+153,282903eb-fa60-47c9-8879-94d6bb011fbd,Non-Athletes,281
+154,292353a6-5d90-4ca6-9bd3-01d4039189a5,3M Onsite,217
+155,29f1b5dd-0671-4bf3-83be-eb10dfdc2723,Participants,117
+156,2a51ab1a-d891-4398-a415-84e8d4669748,Unassigned,144
+157,2a8def1f-2bfb-40e8-bac0-0e20426e21c8,Unassigned,260
+158,2aa7ee42-0c0a-44a4-9be7-6dbbaa00f0ae,Short Hills (Control),190
+159,2aef8681-0c5f-4b54-93bb-c256700eb272,18-25,223
+160,2b598ed4-eb11-44ad-9af6-d5633f87469d,Core Guest - In Store (Shopping for Male),241
+161,2bbba665-f138-4c73-bd33-1a129c8432d3,Unassigned,79
+162,2bf1c3f8-93d6-4e78-b0b3-1036c69d5df1,Participants,123
+163,2c565885-7856-4275-b2f8-960628fd6d72,Infrequent/Non User,138
+164,2c7cc0f8-9e5c-4a50-9eb1-fb2052d132a2,King of Prussia (Control),190
+165,2cf3ff14-b542-41b4-8237-24cacf0b3c61,Under 35,231
+166,2d22f59f-5ef6-4049-8f46-3295e7ce8824,both - college and WNBA fans,7
+167,2d805ce0-47e2-450c-abb2-731b0de7ec31,Unassigned,202
+168,2e4d7a46-13a9-4645-a681-ce7f22f0088b,5 Spanish Non-Light Drinker,246
+169,2ee1db28-a601-4fc0-9ef9-696490bf3a5f,Juniors,320
+170,2f0e63a8-837a-47d0-aa59-7e6b6fde35a1,U.S. Participants,275
+171,2f30f524-3c2b-44d6-b209-3766b31ed969,Unassigned,39
+172,302fd084-c04b-4897-a0e8-b07f04778ae4,Moms/Dads,135
+173,304455d3-1c52-48c1-9625-b46d5f21be5d,Unassigned,227
+174,30a975d4-db15-4c8d-8fe4-6052fffdcfa3,Korean Participants,322
+175,311a413f-d662-4c76-810c-cd7325f9239f,Memorial Hermann,150
+176,31677a9d-6934-498c-9f13-b5765a2fcc4c,Manhasset (Control),190
+177,31c6fc76-3623-4f7d-8757-6a2a693b50d5,Korean Participants,259
+178,3203fd0f-5b47-4d12-8a14-19fd9e06c828,Unassigned,153
+179,325734a2-2f29-410c-981d-38170bfb5fe7,Freshman,198
+180,32a7f30c-1173-477e-bf11-689eaea390a3,Betas 2,112
+181,32c6b276-6d34-4bc4-8630-7e1329b4db73,Zoe,152
+182,32d7929e-4495-49f0-9a66-57a3c2dfc775,Unassigned,188
+183,3312963e-b114-4201-be3b-c7d92dbb641c,Occasionals,216
+184,33862fe8-d1a8-430b-bb55-9a9fc6b80b31,Temple,272
+185,33f77c41-b62a-44d5-ac4c-e7d3ec7a4708,Kids at Home,9
+186,340130fe-accd-44fe-a702-9aa94ea6b5e4,Participants,133
+187,343ec43c-0e02-478c-9262-5e09e780720e,Non-Essential Workers,209
+188,34666efa-c3e5-4f57-8a5c-217847c3a5b5,Second Group,65
+189,3475ee74-284c-4ebb-8de1-31ff8c2b8f76,Men,140
+190,34e31e42-f925-4449-9a50-46cedcf1491d,No Kids at Home,9
+191,3547535e-0105-40af-8e27-d0cc6c85ac36,Unassigned,67
+192,354b7268-b210-4a97-a883-2c05bdda667c,West,314
+193,357b1d4f-a22b-4f49-8add-2d0487b50bfe,U.S. HC - Male,219
+194,357fc77d-4397-404d-afc2-28f5af67280f,Group 2,62
+195,35d8e70b-1315-4c3b-a422-a634042e600e,Non Freshman,203
+196,369b36f9-9bb6-4240-8128-c42f3998980b,18-25,206
+197,36a6ca21-93e4-4589-9741-8c9265014f57,Germany,332
+198,36d11190-f0f9-451d-8179-1ff93a630ca7,RTW,199
+199,36df28b7-d206-4872-8a70-6e9d5ae8e5da,U.S. Participants,258
+200,376f1628-9bff-441c-9bce-d0aab09d62e7,Unassigned,312
+201,37e62f10-8ea2-4b7e-8ad5-9f3f05cb4ecd,Ambivalent 45-54,156
+202,38049759-30c1-4656-b533-f01461d9e640,Non Freshman,136
+203,389e45cf-b332-4ae8-9807-94a465d13f2b,Unassigned,138
+204,38aebb75-ff44-4c9e-b665-239e7f051044,Unassigned,238
+205,38cd16dc-c666-4a51-9ca8-5c7957e23f78,Seniors,319
+206,38d88bd6-10a9-4afc-8218-f0b94f09b900,Unassigned,82
+207,39502f9c-9de3-45b7-bf8a-d241d1c3893d,UK Software Developers,193
+208,399133a1-44f7-4b70-b958-531ad115f5f1,Lapsed,216
+209,3a074488-a892-47d4-9e37-07b57be35456,Unassigned,152
+210,3a4765be-3b0b-48ae-ac81-b7e77a913c65,Freshman,194
+211,3a7cdc24-ebdf-47b6-99ae-7a19d239f8dc,Naples (Control),190
+212,3aadd6a3-812c-401f-a992-6b664d6340c0,Unassigned,186
+213,3b070e61-96d0-4c6e-8428-f1cef178e1f0,Unassigned,156
+214,3b283e62-8672-4e50-bcf4-5a5b55c19db3,Unassigned,6
+215,3b57437f-8e00-4c35-a45f-315f75980f3f,Junior,316
+216,3b629daf-2dbf-45db-9090-26fb8da6496d,Shanghai participants,17
+217,3b6d0d6f-b534-4e4e-b284-f51075f3421d,International Students,198
+218,3bf2cde2-685b-4790-bd9d-dcd65497baf2,Lapsed,159
+219,3c3b0cad-8aaf-48f5-8329-7627b6f13044,Unassigned,33
+220,3c41fe5b-430a-4541-b4d4-efcac7211449,Unassigned,180
+221,3cd68c15-3601-45e2-9a07-a1eba893c99d,U.S. HVG - Female,219
+222,3cd9d483-5b92-4177-8a27-ec053e22fc1b,New York Participants,116
+223,3d1af36a-fe63-4b02-8871-61075a637010,Non Freshman,201
+224,3d93433d-1d18-4669-8701-2cba0b80ac86,Unassigned,311
+225,3da7130e-3d53-4c96-b6f2-9b9cd6b2e468,Gamers,294
+226,3dc28657-e66e-4ed1-be0c-98d459a3f5b0,Unassigned,264
+227,3e1cf128-fb77-415d-924f-482ff9f60948,Unassigned,142
+228,3e75014f-9144-486d-8b57-603972814eab,H-I,66
+229,3fb19410-2542-4fe0-aa73-b0367b4257ab,Unassigned,162
+230,3fe02af6-fb89-4486-a253-84d52077e4ed,MOC Prospects,75
+231,408326ba-0018-48c4-a0cf-097a08620d7e,Unassigned,143
+232,40975d04-abde-4007-893c-8ddf3a7b6181,1 Bilingual Non-Light Drinker,246
+233,409bf4d0-2c52-4c17-bb20-ef768af632f6,Japan,239
+234,40c9af36-997f-4f62-8728-e86c7d7c3fa2,Freshman,202
+235,40d892e2-6dd6-4e33-b0f3-c1ec6ae86712,Acute,162
+236,4123cf0c-df7c-4d28-bed0-ddfb5e515696,UK Participants - Commonly Use Technology,334
+237,4130f423-853e-4422-a7bb-8cb69731f1c0,Group 1,11
+238,41c9c4fe-68e4-444c-92bf-59465ebb061a,Spark Internal Team Members,20
+239,41f78a98-1008-4b64-8f1e-b56c58f1fb1e,Freshman,154
+240,41fd58ee-a37b-4666-a809-caba1caca085,UK HVG - Female,219
+241,425cdc8c-77f0-46aa-a708-94855d45b27f,Japanese Participants,100
+242,42a7389c-5319-4f59-b3e2-bddafab2abec,Unassigned,119
+243,43672b3f-0e07-4c45-a0e5-43ea289bff46,Unassigned,191
+244,43680a8f-5f32-4c8d-98cd-104a2809491b,French Participants,260
+245,43cacfc7-e7d6-4ade-9ab7-ab05dd95aaf0,Readers,106
+246,44193d06-f658-4e23-9dc5-8490ab4cca86,U.S.,239
+247,448f4fcb-c14c-4d71-b291-fe5e7c9873dd,Unassigned,163
+248,44e03ae7-e36e-4c21-933d-d258facacc68,Freshman,147
+249,45695bcc-4499-41d7-b22a-6d277fbc122d,Active,200
+250,456ff786-5382-40e8-aad5-37952051c06e,45-65,223
+251,4592c42a-ae34-4941-9e76-90aaf3713107,Group 1,51
+252,461564d5-ee74-4569-9364-3af98cdad788,Non Freshman,176
+253,46a6c532-f857-427f-acbb-3c2450b42591,Med Star Workers,205
+254,46c359d5-ecde-492d-8bdd-6e55ee065b23,Unassigned,225
+255,4705b15b-73ac-4383-9f60-cfce6c8e0e0a,U.S. MVG - Female,219
+256,47737361-6a8d-4ba9-9cb3-c81d86c24971,Unassigned,19
+257,47dc84d6-5c13-4412-b7be-f56a0b7f0fc9,Korean Participants,73
+258,48034bae-fb68-444d-bf87-28be094c0565,Beta Participants,21
+259,482f1ba4-8c3a-402c-97ff-2c09986e532a,FRANK,254
+260,484bfbaf-b5bd-4114-ad1b-d61cab799d27,Participants,109
+261,48695bc1-f189-4a46-9fa7-bfe7cff7d01e,Unassigned,212
+262,48b5385a-b927-4698-87fc-9b85aa447ef1,Unassigned,286
+263,498474c7-3ad9-4a36-a30f-ff70d525c9ed,Balance Seekers,266
+264,49cff247-7557-4885-8f76-2cab699f27ca,Group 4,53
+265,4a23d8df-5df6-44b2-9f48-acdd8290863b,Unassigned,174
+266,4a89997b-07af-422f-9cbf-7e39cf83f735,Chinese Participants,300
+267,4a8aa599-1006-47f8-afa9-ce1ae86e82fe,QuickEats,228
+268,4aa9fccf-2484-4edd-8ffa-0a71484e2353,Sole Group,267
+269,4ab91da3-cff3-4f93-bb66-044a27c6a55a,Core Guests,160
+270,4b71233a-e39d-4487-bcf4-af2fbda96481,Attendees,167
+271,4bc69cbc-51c5-4956-b977-f2dc3c1d1dfa,U.S. Participants,304
+272,4d97f602-53d5-4a4d-ad95-5673010dd9d5,Students 11-14,224
+273,4e3a2b6d-b2cc-4f7c-8150-960cc1e4478f,Freshman,232
+274,4e58772e-68e2-4a6d-831f-e2b6d7a78e21,Unassigned,161
+275,4eb0b942-37cd-4044-b6b9-bd32436d45c8,Unassigned,282
+276,4ef9b5ae-985d-481b-bcee-db9f7f3f97f5,Unassigned,13
+277,4eff5f4a-47af-4d08-91e7-db2bb86aa520,Japanese Participants,71
+278,4f209699-86c2-4f5e-8dff-3e60d3e11405,UK - Streetwear,144
+279,4f2f5c64-ccf5-4abb-b6bd-573fe4532860,Group 2,330
+280,4f55f082-bcaf-4874-951c-5fcbcfab7ca1,Japanese Participants,278
+281,4f6c894d-9991-4ad9-996a-857962b95532,Non-User (familiar),242
+282,4fa9186e-04fe-4125-8522-0e9294178199,Non Freshman,251
+283,4fb359a8-d131-4090-a841-684f7d343918,Unassigned,178
+284,502e18fe-8a44-4636-8b08-8379c8df0480,Participants,134
+285,514050b7-b02c-419a-848e-0aa42a4b3869,23-39 Women,104
+286,5172df3d-67de-4699-bfd8-6a931c0e4c8b,Unassigned,259
+287,51c3e788-7bb5-4635-ba95-6b2c6f56870f,Female Non-Season Ticket Holders/Non-Group Ticket Buyers,221
+288,51ebf37e-4c2d-4ec6-a9f8-ae4488a577bb,Betas 1,112
+289,51f4358a-6ff3-4d6d-98c2-d6ec31d58a7a,New Guests,248
+290,52241dbb-fb2c-43e4-a470-488f9186aa36,Teen Athletes,164
+291,52497649-ed2a-45fd-86ea-fbd93c5676df,Culture seekers,284
+292,5275b973-934b-42c3-ba51-b2ebc4e57c1c,This is the first group,308
+293,5295c458-0218-446f-883e-6022472672b4,Unassigned,32
+294,52e601b8-b18e-49fc-a172-4ed71e95fdea,Evanston,245
+295,53331f2f-bb78-49a6-a31d-d5cfcde59a0a,Shanghai participants,18
+296,53774197-625d-4979-bc26-d01da9ae38f0,Men,45
+297,53aea0a8-dc26-4c58-9778-ad4c1618d6d8,Commuters,234
+298,53c12dc3-e98d-4067-9df2-30e656d91f8c,Unassigned,158
+299,53c30b8e-55e9-49b4-8742-f9155225530d,Unassigned,66
+300,5431362c-bc51-4ec7-b149-80da3df68942,LSU Students,315
+301,5437ebc5-5732-46b0-aaf9-ac66feabf6d3,21-34,178
+302,54f4f48c-3030-4191-9d7d-ecd4f3dfa42b,Parents & Kids 6-12,233
+303,553240ec-4509-4966-8e18-051974af3824,Unassigned,57
+304,5556924e-349f-44e3-bc86-ca2ad49c3108,Core Users,242
+305,5655ec23-99b2-43c0-927f-aa42db4f49cb,Unassigned,240
+306,56aee5a3-d27e-43fb-a443-5082087fa1f5,Parents,215
+307,5722fd60-b9bb-4dd8-807f-792494c0ad43,Men,104
+308,57364649-59ce-4ee1-a347-3a3685a2ed88,Unassigned,140
+309,574e3d54-2cba-427a-9c97-2f5d903a430e,Unassigned,149
+310,57939a82-eebd-44c5-a67c-855ab44e91fa,Betas 1,113
+311,57d26c9b-8ab3-4ba7-8c81-956fa3d14de3,Betas 2,113
+312,582e9e1f-0e12-46bf-b748-71afdac1f0bc,Unassigned,255
+313,5862b230-9ff0-45fe-a23b-cac7d60998ae,Mary,218
+314,589b7dff-6c2d-4a2d-ba90-8f5fd1bd6a99,Unassigned,234
+315,592f94f9-f7e8-44b7-83d9-0c151c93c8c1,Flexitarians,266
+316,59d33c82-f68e-491f-9e85-cca6d1c5b2c5,Barrett,314
+317,59d75392-90ae-43aa-a271-37d1ea1f1493,Sophisticates,168
+318,59f5058b-2f85-4586-b87d-4cc8d9fb4986,Millennials No Kids,171
+319,5a2db32c-561f-41fe-b646-e3afd7ebdfa6,Educators,125
+320,5a9b88aa-fa0b-4b9b-9d13-fdd5cd688762,U.S. Participants,257
+321,5b72b892-0091-4256-9e00-e476f5ddbf13,Unassigned,84
+322,5b9407a9-138e-44ac-8481-b6acb90b7931,Unassigned,187
+323,5bd5d0e0-00e4-491c-b7ad-e300fe5b4ecb,Unassigned,198
+324,5c4b443c-1f9b-4da7-b772-9354b9219b06,Core (Light),195
+325,5c818dde-10c1-43b1-8c0b-fe092e463caf,Frappe Drinkers,90
+326,5cd31e73-0111-4ca9-ae01-0822eca33803,Freshman,201
+327,5cf9e98a-7c47-4159-920f-e27d481a2dc7,UK Prospects (Size 22-26),235
+328,5d0c26bb-86da-40dd-8d1f-a5cd9b6e3855,Beijing,16
+329,5d2932a4-99a0-4b1a-b012-6afbe8276450,Group 2,60
+330,5df28031-7194-4122-a1fd-d2da2ddc186c,Handbag Over 35,163
+331,5e80f73d-542e-453e-80b0-fb926e890918,Garden State Plaza (Test),190
+332,5ea5c760-796f-4a18-96e9-f13cb0d6f345,Freshman,251
+333,5eb725c6-a850-4d57-b079-aa7e43cfd7ca,Recruited Athletes,215
+334,5ee4e9d0-7466-4888-9ea6-ab509943fc61,Unassigned,87
+335,5f469b84-dbed-4a16-8fbf-15d0191cc749,Japanese Participants,301
+336,5fb28f5d-d29b-40f7-9040-3aa2dd693ca4,Alphas,112
+337,5ffe6ab4-2f85-47b7-b490-a1d6d03cae44,Millennials With Kids,171
+338,60d1b925-7843-4cb3-b852-a0256bb4dcda,Sophomore,316
+339,612cc147-a2e1-4ea8-a9d3-0dbe6cedf769,Unassigned,29
+340,618d7f54-6271-4e2a-b22c-db8a5d25d34b,Non-Users with Kids,91
+341,61ce04ff-9b45-4260-9e70-2c2605c4b015,Potential Guest - Online (Shopping for Male),241
+342,61de2407-d066-4ab8-b89f-588c54ca6574,Non-Users NO kids,91
+343,620074bc-099b-4f6f-ac0d-efedc843aecc,26-30,206
+344,62b84f4d-37e3-48df-9945-3ae351892662,GUESTS,36
+345,62cc0ac4-9b86-4c15-8db6-e5bb3d7d376a,men,35
+346,62ce1ed3-a3e4-4ba5-9cf9-8361aa915646,Unnaculturated,210
+347,6320f07a-b2e3-4c8d-bf4d-56ea3ee00f83,Participants,255
+348,63a2266b-25a0-421f-b200-25681f731df1,Luxury Car Buyers,240
+349,63e00329-7695-4301-b750-6021fae178d7,Michigan,280
+350,63eccb18-cbb7-4994-a3cc-5de71f2f8235,Unassigned,201
+351,64435b80-d551-4b39-9de5-58fbabfa7000,NON-GUESTS,36
+352,64654028-1399-4a17-bbb8-e35d3e1e8c80,Unassigned,3
+353,64969418-eff6-45d6-ba82-8b1b88d877e4,USA - Fitness,144
+354,64a554ec-1f43-47ce-bb99-ee1abfb61d5d,SG Software Developers,193
+355,65045129-ffd5-4de6-af74-a6a29e055471,Non Freshman,147
+356,6561beac-0660-4c59-be34-c4f0011d5729,Unassigned,334
+357,65c47a41-179a-4f16-9428-a8eca0cc203f,Core Guest - Online (Shopping for Male),241
+358,65fb2946-9c6c-4924-8683-f68a97fb1447,Unassigned,50
+359,66cf727b-ae03-40bf-b8c0-3546cdda0cc3,Future Guests - USA,143
+360,674fbc35-9659-46ea-b225-07082c750241,China HC - Male,219
+361,6784bf40-85b8-45ed-950e-b93bab752d9b,Unassigned,98
+362,679d6d5e-1170-41a5-acea-40657fb72ad2,Sam,152
+363,67b9a757-a5a6-41b2-93af-2d415a9fed47,Unassigned,101
+364,67d2cd75-cbd4-492b-9abb-eb6995e12b29,Unassigned,223
+365,67ecfeb6-b004-40f2-8da3-3ba319a542f3,Students,6
+366,6800c6f9-31dd-47ea-b1d0-bfa4279b6377,Millennials with Kids,96
+367,68cb627a-85cd-43ae-92e5-23e2434c91cb,Group 4,251
+368,68e0cc41-c2a6-4687-b932-98514009773c,Unassigned,168
+369,69c43025-0d9b-47a1-8aea-385cdd9c840e,Future Guests - France,143
+370,6a372de6-4e47-4de8-b75c-e78723591961,Potential Guest - In Store (Shopping for Female),241
+371,6a558f18-29cf-4ce2-a306-d2dee6042eb2,Educators,126
+372,6a6252bd-07f8-4994-ae63-8d4afdf006d8,Non-Readers,106
+373,6aa55f37-faad-48cb-b49d-ff0099a799de,Josh Test Group 1,59
+374,6adf183b-d8ed-4749-9fe2-8fd31f38ce59,Women,158
+375,6af1e74b-fff6-454a-9e18-06fbb5d6e033,Just Purchased,244
+376,6b692ace-93cc-4628-8cfa-79f4f2bd4fd8,Unassigned,113
+377,6b83e465-f107-4871-9509-08859320bafc,Group 1,102
+378,6b8715df-2ac4-4943-93b9-fb79368c1e52,Unassigned,120
+379,6b973f12-19ed-4f3f-829f-4af418cb0bdf,Unassigned,317
+380,6bf0d91b-dec9-40f6-afa6-42195fdbc8b5,China HVG - Female,219
+381,6c106b64-42ce-42fd-a4b5-5e7a33a5ba87,We are Group 1. Hear us roar.,3
+382,6c24bd49-f54e-4cd2-91a5-a150d75b987f,Under 40,78
+383,6c30d573-e6af-4011-993a-ee41ec3bd266,Unassigned,148
+384,6c4a4dcd-4023-4574-bbe3-db5c0defb398,Unassigned,254
+385,6c533861-b34e-4f98-ba6b-259a0f276de8,Unassigned,269
+386,6c8f11e9-13de-42d9-ac16-cdd4c0d85abb,Unassigned,245
+387,6cee0202-c490-43eb-99d6-aea0bd0bc854,Participants,107
+388,6d0d7bd0-4642-4c17-8783-d57b80e472b6,Group 1,83
+389,6d5b4bf2-2c61-4990-b607-7f76d8d5700e,U.S.,326
+390,6d66ee98-9326-4a88-90b9-e7c61c846167,Parents of 15-18,230
+391,6dbc9e22-cd76-428e-97a3-36c1a2f48a82,Unassigned,89
+392,6edac2d5-eedf-429f-8e7f-54a44c9352a0,Freshmen,320
+393,6f1a76e5-2cf8-426b-af41-3ee6f8dd1bbf,Men,236
+394,6fcfb1f2-2509-4a2c-9c7f-0464be577fc3,Disengaged Pragmatists,168
+395,6ffdce24-7453-4941-a413-4f127677cfe1,Walmart,157
+396,70072d19-51ce-44d6-9d65-88d8b3a27e89,NYC,263
+397,7057a5d9-326f-43fd-b46c-d351f8ff31cc,Non-Essential Workers,212
+398,70b93ed1-e7e7-4cb0-8dd4-93724948b413,Unassigned,44
+399,71415d64-e4e8-4f68-a9f1-6bb0d9ddf52b,Unassigned,103
+400,7149f19f-34f0-42cd-9998-7f1d7d5701da,UK iPhone Younger,211
+401,714ff4b3-7394-463c-acda-3c03c2da1a40,Unassigned,185
+402,7169b833-0424-4ae3-8a4f-5af039160b36,Design Business Decision Makers,94
+403,725b7646-e4ce-4b7b-a6c7-a2922002c67a,Millennials no Kids,96
+404,727a4762-0d7f-46d4-b9ab-1734a3d7ed9c,Unassigned,115
+405,72d3d155-037a-4792-8a07-498cdf4384d6,Freshman,182
+406,731012e5-dc4d-45c1-b805-6156e10e80b2,Germany B,208
+407,731fefce-98b0-4b52-85f4-e605c815e7dd,UK - Fitness,144
+408,73437bbb-10e1-4e12-85d4-3877025c6266,Unassigned,203
+409,7404289c-198e-4b47-97ba-a8ecfdfefcea,31-45,206
+410,74224b8b-3ba3-4ae7-9efd-b82ea35dc6d4,Teens 13-17,233
+411,742c192f-8b23-4da8-8884-588b296549b0,SG Decision Makers,193
+412,7443b802-3b44-4004-98d8-d4b47ee0fc45,Unassigned,43
+413,744e992e-85b5-42a3-a27a-439e237c5e50,Graduate Students,177
+414,74a2dec2-ee8c-4cd5-b221-5e136ed45a00,People who love spring,19
+415,7518239d-1704-4b6d-80a9-da58c6110818,Heavy Users NO kids,91
+416,7598d528-aa1c-48fc-bd40-988986650ecf,Design End Users,94
+417,75bd799f-be62-46fa-9c1c-8af480366654,25-35,220
+418,75e33091-65c7-415c-a6a3-03c70085660c,Medical Students,205
+419,764ce549-93b0-456b-9afe-5d563fe8f0cd,Group 1,53
+420,76c32f29-8786-4182-b223-049cb075647a,Unassigned,166
+421,76eb8452-520d-4cfe-92dd-1c47c8007198,Natural and Organic Fans,67
+422,77368e35-616b-43c7-87d1-533728c5d232,Unassigned,145
+423,77a524e6-3a30-4ded-9379-da2376068ad7,Nurses,155
+424,7841eef5-d440-40f9-b8b2-52851e9c28da,Participants,128
+425,78592d19-1a12-4339-a18e-9fb7ca47c2e4,French Participants,277
+426,78c95279-03a7-4cab-a07f-e865e2739630,White Plains (Test),190
+427,78f5ee04-3b3a-45e0-89d4-a4855e9ceb7d,Unassigned,46
+428,78f9cb78-646e-42b0-bc26-7a48767567d7,SoHo (Test),190
+429,79220811-688f-4d7a-b15e-b39da4876a9c,Charlotte,263
+430,798ffa98-82d7-47f0-814e-f3fb23da06be,Car Enthusiasts,37
+431,7b48b060-d975-469f-b568-346117badba5,26-30,223
+432,7b9dfcc7-7d0e-47ae-b3ce-61d5327dd6f2,Unassigned,55
+433,7b9fb696-1e13-4729-b162-c68a9e24c31a,Unassigned,104
+434,7bad8f3c-b019-48dd-8a2a-353194b605a8,Boston Newbury Street (Test),190
+435,7c284e7e-66ad-4f85-bc9b-545c14fee7b8,In China,296
+436,7c9e43fe-dd2c-4c43-88e8-aa12d9cd9814,U.S. HC - Female,219
+437,7cd0442f-8c63-4c8c-ba64-0673b72d1e63,Steve's Friends,31
+438,7cd1bd41-633b-4011-a583-a95f410cc5bb,Bag Lovers,14
+439,7cf8b94d-76ee-4c69-a168-4ae00d71a2ad,18-23 Explorers  Non-Regular Drinkers,274
+440,7d331a1f-0b05-4e8a-95ad-867d8fdc3bd7,Unassigned,100
+441,7d7f02da-6136-4f8c-b812-2e326f89d06c,NWOC,76
+442,7d8598c4-56e1-4c3b-af17-d3755eb511fe,Group 1,65
+443,7d91519b-2ef8-4466-9bf2-50cde2d4ed85,Freshman,176
+444,7d979414-d4e3-402d-8cb1-0d3bfbee36cb,Parents of 15-18,224
+445,7d9d8bf6-89da-4c83-8ac5-5492e17d225b,Active,199
+446,7da0b1a7-ff68-4e80-afa8-467c70a65fc8,Unassigned,47
+447,7df79811-79db-467c-ba36-fe5f21154210,Freshman,316
+448,7e3c04a8-f5f8-4bf8-b86b-6a4744a6c889,US iPhone Older,211
+449,7eb19b66-584e-4965-9685-3db9636ae950,High Value 25-34,156
+450,7ee39ebf-3c92-4d3c-9955-92b4dc75049d,U.S. Participants,321
+451,7ef2580e-73e8-48a3-9d77-1d7e8d913496,Clients,318
+452,7f0393db-f20c-4b35-a9e1-529591602d69,Prime Prospects,10
+453,7f5582df-08bc-4cc3-babb-4ac970e52abf,Growth,195
+454,7fba5914-2772-46c3-afca-9a5e8dc3b942,Unassigned,53
+455,80203f30-07ba-45b8-b372-7cde3134dd71,Group 1,41
+456,809448fe-1a3b-40a3-a5d3-6fe59c42a5da,31-45,223
+457,80b01064-7c51-43b2-ba8d-1d0908d1db2c,Cuban American Families,237
+458,810be0ba-e085-4c05-8615-853f7626bf02,Unassigned,233
+459,81529da3-903a-4f82-8e1a-ef1106405209,Unassigned,170
+460,8165449b-ad36-4edd-b4e8-ba6143414720,Heavy Users,115
+461,81d8df14-e432-4646-8b0d-8b2e6ea877b9,Meghan,152
+462,81ee522d-5e0d-42a3-b8ee-4cba5b6139c2,Female Season Ticket Holders/Group Ticket Buyers,221
+463,81f939c8-da71-4c54-9af4-e290399f72b2,Light Users,27
+464,823ab679-a049-4dca-b236-2223ea035715,Non Freshman,196
+465,82958f15-43ac-4a51-9395-d3477443cb79,Unassigned,193
+466,82dcf17f-3e00-4900-ae30-2b9038c023b6,US B,208
+467,82f033cc-41ca-4ef0-8528-5c6fa706bfc5,UK MVG - Female,219
+468,831b5f67-a75f-45c4-97be-d54213c0ff05,Poly,314
+469,83217f76-f3eb-4453-9a7e-ccdd0870c395,Unassigned,246
+470,833767c4-26ae-4b85-a706-39d50c62d82b,Grocery Store,157
+471,838ddd7e-8b7d-4cab-bfc8-b67ad2a25010,Dallas Galleria (Test),190
+472,83c3572c-2893-4c55-9954-c74a248d60e2,Unassigned,165
+473,83d5b6f8-01e5-491b-975f-b8f0d6787238,Minneapolis,263
+474,84b7e44a-2369-49de-84ed-fc646fcc3601,Families,222
+475,84ffc09c-7b9a-452e-b3b8-0314ea3c20f6,Unassigned,36
+476,8592b6d7-f1fb-4214-b4a2-81d5888383bb,U.K.,328
+477,85fe0ed6-ff52-40db-bdd8-2de6878ce0d3,Seniors,320
+478,8602e284-da91-49d4-ab5d-0519f7e1c81f,Unassigned,221
+479,8606979c-b18f-4959-9e20-877a698021c6,Test Participants,33
+480,868a3810-84b1-4ef3-8c99-954f8da5044d,Unassigned,244
+481,86c92ee4-561a-421d-adcd-5bc2342af18d,Unassigned,127
+482,8705ffb9-7ff7-4af9-a2f5-b20cd0119f16,Previous Regular,307
+483,876eaf0c-d4f4-41b9-8e57-59bb101d4360,Unassigned,171
+484,8808e0c9-197e-4bde-8c0d-2f97faf16f9f,French Participants,302
+485,880f582c-20b1-49ae-a663-1170246d81d1,Unassigned,14
+486,888a46d9-bfb0-41d2-802a-d04174545a90,Light Users NO Kids,91
+487,888d5cac-d5c5-417b-9939-5e4731dbc771,USA - Streetwear,144
+488,88c35669-ff3b-46b8-87cf-a85eb2c31c38,China HVG - Male,219
+489,88f64019-b8ec-43d1-9a04-749da7b43202,Non Freshman,189
+490,891bb0f4-37de-4586-9567-98fcfb592be3,Non Freshman,202
+491,89e33295-55e6-496e-be23-fccd0309f767,Women,45
+492,8a271b8a-eb3e-4459-a328-2df54e22fccc,Unassigned,23
+493,8a4236df-928d-4ed5-9552-dab239958920,Participants,108
+494,8a50be3b-736f-44fa-933c-7c222ebd5887,Athletes,58
+495,8a7bb2b8-5365-4298-a686-95f64b2decdb,Potential Guests,125
+496,8b77e90a-eacd-4dad-a0da-b23251f1831d,Unassigned,218
+497,8b786f30-7dfe-474b-9034-d3798fa3a426,Parents & Students 6-10,224
+498,8bc7556e-07d4-426d-ae13-66115a889272,Unassigned,136
+499,8cb11aec-2f39-4bc1-b89d-34688cecc5ef,Freshman,191
+500,8cf9a184-80aa-49eb-a1b3-c0767096f18b,Unassigned,48
+501,8d08b6ed-c0a6-443d-b90b-8e7f2fe609af,Potential Guest - In Store (Shopping for Male),241
+502,8d370e23-20ae-43da-b342-b1facaf8bc6d,Unassigned,54
+503,8d518932-060a-4829-9de9-e887eebef022,Unassigned,182
+504,8da62a42-e2ee-4dbf-a89c-2cdeb4ae0b2a,Participants,114
+505,8e0d08df-e2fc-4da5-9810-1eae2e7b3ea0,Plano,56
+506,8e4ae134-bb2b-4043-b65a-5178663b0ac2,Unassigned,30
+507,8ee4de14-a9ba-4b65-abac-edd374957d72,Unassigned,199
+508,8ef366f7-506a-453c-b681-66b7d99a8423,36-45,220
+509,8ef6aa16-05a8-40c7-9c12-57befccaadd9,Ambivalent 55+,156
+510,8f543d5c-5214-4097-a889-286c0b635d77,Other Nationwide Participants,116
+511,8fb1abde-2f9a-4f80-ba3e-8cdf1557935e,Over 35,231
+512,9080de94-a763-4a92-9bb9-a2c3fad3fdd7,Unassigned,214
+513,90886143-8749-4438-9a2b-a6fbbbc12f12,China,239
+514,90e9859b-cd98-4cab-a9e3-ffd5d2275593,UK HC - Female,219
+515,90fcd3c7-fb2f-4b7d-bb87-ab4715574058,Currently Participating CEP,238
+516,9112395d-8344-47c7-853e-690a1bdd515d,Potential Guests,33
+517,91147f49-c931-4701-bd8b-bcb0253383ed,Unassigned,111
+518,915e794a-9123-445a-b4bc-268b6f3aabb5,Unassigned,283
+519,91e400f9-bb90-4c22-9ecd-fa5d5f05b91e,Group One,271
+520,91e6d4d6-13aa-43f1-acc6-559c23c9c774,Chronic,162
+521,92411d32-7127-4cb2-8081-9a4f32dfeff8,Future Guests - UK,143
+522,925e5df6-5d0f-46e9-89d9-da8370207baf,Surfers,284
+523,92ec0d1c-5aef-4236-a4a5-a4bd772a5fe0,Freshman,189
+524,93603002-35e9-47d8-ba12-b0218d0cb0d8,Unassigned,117
+525,93635f58-f474-4340-ae44-deb290039532,Atlanta Participants,116
+526,93699986-454e-4cb1-9a4c-4f6eaa7b6b1f,Non-CHANEL Buyers,264
+527,93da6661-4455-4228-bf67-31cf1575d5d9,Unassigned,248
+528,93e7ef5c-2e22-4f79-b4a8-8564b8343000,UK Decision Makers,193
+529,94137eac-bd24-435b-b883-2a2439e2a2fe,Unassigned,169
+530,948e7051-23ed-4886-b3e3-77243a9e5a66,Unassigned,313
+531,94da1da2-e687-405f-8f1d-cf199005927f,Japanese Participants,324
+532,9505e615-39cd-49d9-9afe-a4935bce2ecd,Group 1,103
+533,95484499-9726-425f-b67b-1ddb5dfb7c56,Unassigned,157
+534,971e1b10-c196-4d6c-92f3-a09c46837cc5,UK Android Older,211
+535,97306ec7-6453-4a94-8aba-f608cb0314f9,Unassigned,231
+536,97d6be97-0a07-4642-a540-2535183040fd,Non Freshman,148
+537,9811806b-11a7-4414-87be-5ab02a7d665c,Potential Guests,248
+538,98178e24-d047-46a7-bff9-db50445d3b76,Unassigned,62
+539,986bb959-d57d-4ff5-9709-bd806197af6f,Unassigned,211
+540,9873482c-5672-45ab-8f92-5853ba9af035,Freshman,175
+541,98817ed7-b0b1-4f6e-bde5-160bd306dd02,Unassigned,78
+542,98eab98a-d4f9-4fc2-932c-b2ede65866f2,Unassigned,177
+543,9923f323-a737-4f01-ba30-d17e703759ab,Gamers,273
+544,99319f53-510f-4b74-a010-2116a244c814,Unassigned,159
+545,99a3ef0c-f23d-4d25-a193-85dfc0e06b9e,US Participants from the Initial Sizing Project (Size 14-20),235
+546,99c0776c-87dd-4410-aa11-1cadabff05f7,Unassigned,219
+547,9a114e05-4dca-45d1-84d9-9e0ba11ca979,45-65,206
+548,9a71c91e-1e44-43bf-b619-74ac22914ed1,Unassigned,228
+549,9aa8c13b-f496-4623-9049-77fc0a3f1c02,Unassigned,20
+550,9ad25b00-f68b-4bfa-b07c-95d1d5d26bad,Unassigned,176
+551,9ad5a26b-c87c-49d4-8b8e-c024cdb9c83e,Book Lovers,283
+552,9aed23a3-329a-4af6-80de-b0df3086cbda,Group 2,68
+553,9b2ab2ff-ad7d-44a7-93be-e807d4616dd2,Unassigned,195
+554,9b38c9ed-609b-4fab-a98f-289c65c05ca3,Educators,124
+555,9b47838d-bfee-434f-b4f1-2fc001857859,Unassigned,56
+556,9baa04f3-2d12-4d34-9a58-603047cdb2b4,Non Freshman,197
+557,9baa17dc-a44e-4ede-ad27-f20e42aa7727,Unassigned,135
+558,9c92bb89-b243-4b37-894b-87c90dc2c7bc,22-34 year olds,1
+559,9c95ac80-88c2-4a64-a470-73a96d2fc6f1,Unassigned,194
+560,9c9e82de-6b99-4cb7-b166-1de2f4b6215f,Group 1,79
+561,9cafb90c-c72e-4b8b-9355-37aa7653a8a5,Unassigned,189
+562,9cbd2645-ba08-4f45-a24d-7a0dad9d5674,Luxury Collective,213
+563,9d05849b-f7aa-486b-a88b-f7cd2b499d75,Juniors,319
+564,9d521a99-2a51-4b8d-931b-480741abfa5b,Indianapolis,56
+565,9d73d66c-57c7-4339-b4ad-862abe2f246f,Unassigned,52
+566,9de09e25-bbe5-4013-a0ed-250451230c8e,Unassigned,12
+567,9de7ab12-9fcd-441d-9ecf-47a955c171e8,U.S. Participants,97
+568,9e1f45b4-0be0-43f7-afb6-afbb9f617a04,24-35 Explorers Non-Regular Drinkers,274
+569,9e3d8fdd-f498-4176-aad9-9eac107b7662,Unassigned,122
+570,9e974fcd-b33a-490b-aefc-8112b5ea0a5f,Unassigned,150
+571,9ea552bf-c1cc-4d0b-b959-80f2c3e450a0,Unassigned,18
+572,9ebf3138-a5fe-4f17-b691-940825ed8a52,Group 3,53
+573,9ed6a5bb-d515-4841-bc50-c3f8810cf7e4,Non-Freshman,180
+574,9efad240-2159-4c3e-9cd4-8d470d78ad50,Freshmen,317
+575,9efb4745-ae68-4d7b-aae6-f8ad3cec3a7f,Unassigned,93
+576,9fc5df0e-7bfa-4cea-a801-bfac3dfff6f6,Unassigned,235
+577,9fe7a852-0866-4f61-9b86-b6f0ba8d311f,Freshman,146
+578,9ff337e5-54e2-4a9a-9a94-b8bca1aa71cf,Friends of LookLook,20
+579,a0b0acdb-7e36-4707-a45a-34dd374f75f7,Unassigned,146
+580,a0b3b327-9dad-4fad-8530-767d575b5150,Unassigned,213
+581,a0cfe8bd-ba81-4514-beba-4bbf6b06fe02,ASSIGNED,288
+582,a0edf946-bdb9-4c8f-99fe-315f953c1209,Non-User (unfamiliar),242
+583,a10c9b79-f226-455f-a205-535fbc9c2897,Gen Z Fashion,294
+584,a15d0caf-7040-4be9-846a-d269edb88723,US,208
+585,a1ff1de9-7a03-4560-9426-955f595b5111,Parents & Students 6-10,230
+586,a2e66aa0-1a81-444e-add8-8b1042349dde,Sophomore,174
+587,a2f52d72-c83a-4c94-b090-b044a71075f9,Current Guests - USA,143
+588,a38ca2b7-cf0a-49e9-95ad-e39823f2da36,Prime Prospects,4
+589,a47c9919-a7c6-4eaa-8b0b-b329b579066a,Gen X,171
+590,a4aad39f-37f6-410b-ae2a-719094a5c55b,Freshman,197
+591,a4ee8ad1-b489-4d1b-9d74-3acbe70f1c88,In China,295
+592,a50fd824-37f2-45f0-a808-5b05da77189a,QA Testers,38
+593,a55fd488-fed4-4a4f-b9d1-f230d8b0a684,Employees,243
+594,a59f6f7d-fec9-43a1-abd1-74389236fe60,Current Guests,125
+595,a5db9202-e879-4d44-9a0c-ded277c1ba4d,Unassigned,179
+596,a60d9b10-eb42-4068-8846-14ebc1584ec8,Group 2,3
+597,a62208d9-39d5-4069-92e3-8c2c324456cf,Unassigned,130
+598,a6dacdbe-d9e1-4f7e-8ba1-086d01405af0,Downtown,314
+599,a6e1122d-49b0-4799-a567-fc7bc46178fb,San Francisco,263
+600,a7454ba1-3093-4253-bb55-42cf945b8199,Influencers,135
+601,a7756593-0098-414d-8962-8985c7b4dd22,Dave,152
+602,a7c8a523-f9aa-4520-9f09-8826c476aaff,Unassigned,292
+603,a7e6e59c-845c-4e4e-bebd-d83a756fc27f,Unassigned,147
+604,a7f3e70c-5b8a-42ce-abe4-bcd458eaa78b,Non Freshman,198
+605,a7f8fe61-0003-404e-86bb-d157d369ad0b,Unassigned,196
+606,a8892e77-eeb4-41e2-b9a9-a5486a8e24ed,Unassigned,45
+607,a9287280-07d9-4ea4-8a0b-02d38abf7684,Non-Essential Workers,207
+608,a97416b1-82c5-41d5-8a39-75ef2f0813b8,US Software Developers,193
+609,a99ec377-d47c-4dbf-b755-decff9ed4537,Unassigned,252
+610,a9ea68d2-86ac-414e-bf2f-6af1cf9b624c,Gammas,111
+611,a9fd1fca-d340-494e-8675-7d7bb0f27a72,Unassigned,60
+612,aa994ea6-52f1-4b9d-883e-fa23c142ec25,2 Bilingual Medium-Heavy Drinker,246
+613,aaa378c8-858e-414f-b7e9-cd57e3432977,Participants,186
+614,ab23f5fc-bd83-4a6e-b547-02df1c5f30a0,Unassigned,73
+615,ab32e7fa-8652-4e79-b09e-57659742ee1b,Unassigned,207
+616,ab9e483f-cb67-4a6a-ab5e-83e6a69cbfa9,40-60,78
+617,ac6e686b-a5f8-4ff7-a188-e57fdbf2b084,High Value 55+,156
+618,ace46e3f-d6d9-4a86-8fd7-3fe597f51b94,French Participants,323
+619,ad145ce0-56f1-4d3c-a6d5-163741546f3f,Preowned,200
+620,adb8d71e-a440-4083-ab4c-4f961fe9b048,New York Participants,265
+621,ae290c9b-0889-4851-9930-69a0158ad268,Non Freshman,232
+622,ae61e615-2ecb-4445-8636-799dcf27d5b8,Participants,121
+623,ae824016-d517-490b-b9c5-310ee755df2c,Freshmen,145
+624,aea6893e-f5d8-49a2-a7f1-e16d690b2ed2,Group 3,251
+625,aee5c4d4-0f38-4fe1-ad3d-b3a1eb0cae82,Students 15-18,224
+626,af39a26c-434d-4190-a8c8-df465dd95ab8,40-55 Women,104
+627,afe84487-46ec-4950-8a6e-058826ceb16c,Unassigned,83
+628,b0001607-9781-417d-bb51-b55bb5da1ce8,Sensitive Skin Participants,253
+629,b00e40db-e341-4f1c-9d39-577bcddb7a6e,Unassigned,289
+630,b03852e7-7587-4d27-8278-3334a19e57f7,Gammas,113
+631,b04fc66d-b1c4-477b-94be-bf741e4fe6da,Students 11-14,230
+632,b065d216-2dbc-4717-b2fe-fb75227bd757,Gen X /Boomers no Kids (at home),96
+633,b1f51287-7c82-4181-b263-3be28ffa03aa,Group 2,31
+634,b1fd3bff-422a-4e67-8755-8b692bf946ac,Unassigned,59
+635,b30b8d68-59d8-4584-a97b-71d614ae417f,Non Freshman Undergrads,177
+636,b3510fb8-86a3-4a54-8683-081a74bbca54,35-50 yr olds,1
+637,b4f52d6a-49cb-4e2e-aa3a-e211cadda327,Recruited Athletes,174
+638,b53b5263-8358-408e-b85a-8eba9b54cb4d,Participants,120
+639,b5776473-d5d7-4ffc-9756-d1a2b7f422e2,Unassigned,243
+640,b5872522-0f8b-47dd-a250-71590379a0c4,Non-Freshmen,153
+641,b5b22e4a-c686-454a-90a6-4c083195f8c8,Gen Z,96
+642,b5cb5859-5071-4d25-8166-7a5c50a83edd,Grad Students,174
+643,b5ef5274-b54a-4ee0-8991-f5e0b983705b,Group 1,68
+644,b5f80581-f99a-4cf7-8353-a7faa82650d3,Unassigned,134
+645,b628e2d4-7901-4b07-bba0-7136b1dd225d,Non Freshman,175
+646,b700a37a-0c62-4537-9730-ca689ad8a700,Unassigned,114
+647,b7731a0c-5be3-47d4-9626-cf90e68611f2,Unassigned,129
+648,b7b104fc-dc34-4cb7-b0b3-f07e8d5aa064,Frequent Users,138
+649,b7b9fd95-ccbf-4070-a9ac-cfde3edacaa5,Unassigned,237
+650,b81abd56-7a25-4359-b977-c95a3f3d5205,Females 18 - 34,12
+651,b86d5ca4-9984-454f-ae0f-8109a14f980d,Fights Aging Offline,181
+652,b888d1d6-ef95-4386-9cf6-2b486a07904a,Unassigned,116
+653,b89c5051-67bf-415c-8caf-55ff4cfe7ef7,Unassigned,247
+654,b99b69ca-82b1-4214-861f-36f7d43dcf95,Sophomores,320
+655,ba6490b2-1a6f-441a-9868-07b0738407fb,Chinese Participants,23
+656,baa7fcd9-c048-4cad-a2b1-b6e311223101,Unassigned,58
+657,bacff268-5225-4981-b893-3ebc7889e34b,San Antonio (Control),190
+658,bb1cc79c-8b48-44cf-aa24-ac273d031713,Freshman,203
+659,bb24d02d-8525-446f-b160-2dd4c7a44421,Non-Users,105
+660,bb3cbe72-3f4b-4b4e-8c97-cb8ca250a33c,UK Participants from the Initial Sizing Project (Size 14-20),235
+661,bb7e4285-47ce-4604-a4a1-502ff012b1b1,Unassigned,38
+662,bbbd3381-740b-49a5-ab56-c6d1f8d02fb9,.,284
+663,bc5895fb-53a0-4dd7-9772-afe8bb54c4fc,Japanese Participants,261
+664,bcac9d66-dcfc-478b-b6d8-d57ae2c2ed5b,Unassigned,35
+665,bcd8dbb4-f5b6-4823-868a-5fb6999c506c,Unassigned,297
+666,bd2e9674-89ea-457c-92c2-d91485ae8050,Group One,169
+667,bd990b51-9e5a-47e0-93f3-f5a88968fa76,Gen Y Fashion,294
+668,bdcfabb4-3641-48d5-a615-b59005ef4595,France,239
+669,bdecc536-bb25-444a-b690-cb6fdef3ca94,William,218
+670,be1d451a-2e80-497f-a456-9c92db16b9d7,Unassigned,68
+671,be2b6b71-3c1e-4958-a890-2f7e2788454f,Currently Abroad,295
+672,be7c65e7-5eac-4f46-8833-90ebdbd7056f,Swedish,245
+673,beb19ae1-a108-430a-a31c-29e485fea6d2,Participants,305
+674,bedfed59-84bf-4a86-9edb-5174c56acdd8,Jenn,152
+675,bf016cea-8d9c-4cc6-8b3a-1288974bb029,Regular Guests,161
+676,bfd1dd83-1f08-4122-ad97-5c6e4f7e3e2b,Non Freshman,154
+677,bfe22717-9049-4575-bdcd-ed6ab2e0cccf,Unassigned,92
+678,c07e6a25-6795-43f1-b2ae-195f7cc42d6d,J-L,66
+679,c19c350f-c474-4371-b397-ccdc53eb3d01,Unassigned,64
+680,c1bede66-bbd1-4bf3-9bc4-c2b474eb0399,Core Guest - Online (Shopping for Female),241
+681,c1ec89c2-5b41-4f8a-a955-239b4507d98b,6 Spanish Medium-Heavy Drinker,246
+682,c28c9d17-c9ce-419c-863b-886a7ee9e150,Unassigned,72
+683,c2b4f79b-8556-4418-9e21-9d37b1a9e56c,Unassigned,298
+684,c2bc9e4a-aa8f-407a-a557-cbdde4511489,Fashion Sock Buyers,130
+685,c3359fbd-4c95-4e30-94ae-96fe7fd5a4f0,Under 40,252
+686,c33cbc7e-d704-4345-a0d2-fa51a0cff492,Sophomores,234
+687,c355435e-06d6-4580-a2b2-ec391b9cc560,Unassigned,11
+688,c39faa3a-a4a1-490c-8bd1-77461340b3b2,Current Guests - UK,143
+689,c3a4fe3f-7c7c-4cd3-be72-acb9a35e3a8b,Potential - Infrequents,129
+690,c3c8cef6-ed76-4209-aff3-bb30931662f8,Will Purchase Next 6-12 Months,244
+691,c40818ee-4a28-4545-a64a-e19143012783,Ascenders,168
+692,c4594456-08a5-45e3-a96e-bb60e40e422a,Unassigned,17
+693,c471a465-7916-474c-a027-f129fb5e3ae8,Unassigned,287
+694,c4799c3c-bfc3-4ea1-9e21-70d38db47209,Unassigned,110
+695,c4967817-12a2-4ce8-9acd-c17aff08fecb,Non Freshman,194
+696,c52a880e-c7f9-4a47-9961-36fe290c974c,Other Onsite,217
+697,c5417a0e-1283-4ee5-966f-b1b6438c3c9b,Unassigned,2
+698,c578433f-4ce9-45a8-ba8f-4b64a4a66904,Luxury Gamers,294
+699,c5809239-d118-470e-b1da-7f79c69192dd,Betas 2,111
+700,c59ddf9b-1b63-4755-953f-1bf79f7bac31,Non Freshman,191
+701,c5b1e766-5b34-427b-b56a-862fed233b73,Streetwear,142
+702,c5b5c565-f30a-4ea0-8924-5ab6b8a5d00a,Group 2,47
+703,c6258285-3a2c-49b4-9efe-a1eb59b6dacb,Unassigned,81
+704,c6b67397-8786-4230-b360-1949eab70404,Ambivalent 35-44,156
+705,c6be34c9-2944-4d21-8ace-6723dbce7abf,US Decision Makers,193
+706,c73103f8-f08d-4deb-8eab-1e35a41d038a,Unassigned,265
+707,c740e8c6-6766-4b19-a151-864a91f8ab29,Current Purchasers,166
+708,c7486e6d-1526-458d-89f1-6774fa576b60,Enthusiasts,129
+709,c7673187-e2e0-4cd1-bbd5-2e265bfa3395,Business Owners,227
+710,c7dffb3e-24f2-432e-bc7c-e6d5a1c40400,UK Current Core Guests/High Potential Guests (Size 0-12),235
+711,c80e4856-a07c-454c-ae25-eebbe70f8125,18-23 Explorers Regular Drinkers,274
+712,c81331a1-9fe9-48aa-b8c5-3cc78acbffa4,Unassigned,27
+713,c816d288-7df5-4acb-af1f-65d0883fdbed,Freshman,204
+714,c8562c4b-30ff-4f5c-a428-f0a774445b0b,Unassigned,262
+715,c8d16bfb-ac8d-4a5d-aa04-408be8168e8a,RTW,200
+716,c8d60ba6-8955-44ab-afff-d541f6fb5003,US Current Core Guests/High Potential Guests (Size 0-12),235
+717,c900f023-ce61-4884-bf6e-8b8687d4ef04,Decisive Connoisseurs,168
+718,c9082831-6dde-4acb-868d-c9a2b5932efd,Unassigned,125
+719,c97d5bb3-98ae-4d3a-9f75-4c880392d1a5,Passive Users,139
+720,c9a2ffbf-7852-4239-b92c-ba1c0c994f71,Light Users with Kids,91
+721,c9ddf2fa-2ecb-47f9-9af4-6c60d8d41b6f,Align Pant Owners,132
+722,ca2b0986-f49a-4f7f-a11f-4ded3cffc451,Potential - Non-Purchasers,129
+723,ca34660f-9fb2-4ec3-af31-84a2bda62659,Unassigned,126
+724,ca683aeb-d7ce-4a11-a7a1-3ed9fbe0bbe7,Unassigned,285
+725,cb969fe2-68fd-4a4c-88be-76d78c4a4dcd,Non-QuickEats,228
+726,cbad5ae0-6359-4e01-8706-8e757707a7c1,Unassigned,90
+727,cc655568-01d6-4afe-8daa-3f7f67aca9c3,US Android Older,211
+728,cc7d182b-9852-448a-a667-d5e54738e9e1,Non-Users,27
+729,cc7d6da8-bed3-4712-b8b1-cbbf59505b52,Unassigned,34
+730,cca747f0-01b9-430c-b17d-aac70e494718,Unassigned,137
+731,cd16eee6-433f-4838-b5d2-7a064a9806e3,Unassigned,118
+732,cd8ba822-e009-467c-9cab-c17966febe8c,Unassigned,164
+733,cd9d9d68-3e36-4a58-8398-ccda6235da9e,Senior,316
+734,cdcf76f4-e4e7-42cd-9590-d8552f3cc894,Parents of 11-14,230
+735,ce1c31b3-cbc0-41b4-a5f2-c9e734d4c094,New Guests (UK),77
+736,ce9ed2ad-a4e2-4ee8-aaf5-32c513e123b4,Interactive Enthusiasts,168
+737,cee8e4a5-f929-4d71-a716-e86a40f656df,D-E,66
+738,cf56db89-af65-4e89-9382-27dfb09d0734,New Occasional,307
+739,cf812a9b-51f1-40ce-8143-aa5c41352e46,Competitive,159
+740,cfafb266-0cf3-4298-acf8-137ef2a682c8,Unassigned,133
+741,cfb337a8-3543-4654-9ee8-424e95938108,Unassigned,272
+742,cfdd4e4a-cd00-426b-816a-542125bf5afe,Freshman,177
+743,d0a7f4e0-2c7a-442c-8dca-afab6ca62417,UAE,329
+744,d115530b-2bf9-4e2a-be84-cc8845b3f6e7,Unassigned,95
+745,d274a407-bcc9-4c3c-ac4c-0169b8a496fe,Unassigned,124
+746,d2c60905-2c4b-4cfa-8ba0-8287e6eda285,Freshman,148
+747,d2f79970-f736-4d85-95d1-63858b61b08c,G1,63
+748,d440f478-499b-4929-849a-6f5d4fda412e,Unassigned,239
+749,d482a105-a6e9-428a-97db-eaed7732ee4f,Essential Workers,207
+750,d4b76045-a9ea-4052-980c-c240c920f70e,Upperclass,234
+751,d4c3b138-ae46-48a4-897e-31c87721bbe7,Baylor Med Center,150
+752,d4da6499-e1e0-4dbd-9010-a315bd8ddb75,Students,215
+753,d5026b56-b227-486d-b457-407ae9f83590,Bicultural,210
+754,d53caf63-9289-4562-bcfa-ad6768a9a356,Group 2,49
+755,d5e049d8-1e3f-41dd-b385-dfe3be359341,Law Students,174
+756,d61e60e4-6e4d-4154-aac0-cf206870a16f,UK Android Younger,211
+757,d62092da-8d36-4653-a3f9-8da518438f99,Previous Occasional,307
+758,d6344fb4-933f-4c39-bf5b-b3b9a9b480b9,Freshman,180
+759,d658fdc0-2282-4452-a436-a31321320485,Freshmen,137
+760,d6978126-b17a-4a90-8c3f-99a1f2a61b29,Oakbrook (Test),190
+761,d76f3a08-b529-4c00-b28d-7f31d8d4d162,Unassigned,85
+762,d77a4f2c-6bc7-430c-921d-45cabc9ef77e,Millennial Prospects,141
+763,d7ef4c09-8181-4582-b2bb-607d22d3b479,Cat Guardians,282
+764,d7f9a0d7-9c4b-42ae-8884-a42b9bd91ebd,Unassigned,80
+765,d80ff2f9-b0b0-47cf-99aa-27f5b5313050,Group 2,53
+766,d827f277-7400-4c20-81d3-5cb7412766da,WOC,76
+767,d848a89a-c229-4d0f-b95a-80e0c3494dcd,Unassigned,5
+768,d8a5a807-b341-4d46-b1af-2b120a40974b,Unassigned,293
+769,d8e9f8e4-a8f3-440d-bcac-2dc52189be6c,Unassigned,25
+770,d902ff03-c637-4377-910f-375510d9c3f8,Des Moines,263
+771,d94cdea1-c1cc-418c-aa63-24f70f2a259a,Fashion Forward Guests,161
+772,d9696fe4-1782-49ef-9208-a5af9a4c3f42,Occasionals,141
+773,da204cb0-7dbe-4973-9234-7765eb5223fa,Moms,8
+774,daa71142-710d-44a1-8896-6d421819fcbe,Boston,56
+775,daee6a57-82eb-44f8-82aa-c62d5edb87be,Unassigned,21
+776,db8b3c0f-99a6-44c0-a88f-9e9e7e1f9ac4,Unassigned,217
+777,dc201caa-115a-42f3-bd3a-f2c06e833198,Sarah,218
+778,dc814631-66e1-44a9-a1f0-c52a3024fdda,U.S. MVG - Male,219
+779,dc987e3d-6b41-47d3-8023-3fcc4006f5d0,Tom,152
+780,dd280b48-e6ed-4a7f-a4db-16bf2027d0a3,St. Louis,263
+781,dd970cb1-a2a7-463a-b48d-56eae6724897,Frappe Drinkers,256
+782,ddf8a1c8-77b1-4a25-aa35-6106f519b104,Non Freshman,182
+783,deabac7c-c1aa-4e50-aa74-ab88c573938d,Currently Abroad,296
+784,ded4724b-236c-46df-a337-af8663cc409c,Lapsed,200
+785,dee6d5ea-6630-41dc-9e6b-8e28f6fa6d48,Gen X / Boomers with Kids,96
+786,df057dbe-d7a6-4bcf-89bc-8ca3ebaef47e,Unassigned,241
+787,df70edb0-9e6b-46e5-9ce5-e83e1503a5e3,Occasional Users,115
+788,e0033a6c-e003-4598-ad42-9e565c3a603e,Group One,170
+789,e04f5763-2ce9-49b5-bfa7-cf9e44b2498e,People who love winter,13
+790,e065c0aa-55ba-488c-b497-c965c477618d,Freshman,172
+791,e085aa2c-e1a3-4538-97a3-4c73c1b1ee92,Unassigned,281
+792,e090ad26-41d5-4a69-b022-73faeaebd235,Non-Purchaser (under 35),199
+793,e0b00101-0c06-4bde-9590-ceacd79c59f5,Boomers,171
+794,e0c2997b-5d23-4053-8fe1-ee5dad71981c,Unassigned,208
+795,e0c40f3c-891d-45a8-89c1-7e9b7c441a22,Group 1,50
+796,e128dae6-4a0a-4bf8-90d2-58bf85c7c546,Shanghai Luxury Collective,214
+797,e19c02b8-68c2-403a-b2cb-57fb31a4f041,Unassigned,261
+798,e1a6df72-b84a-4fb0-ac81-acb607161d4b,Unassigned,99
+799,e1b47141-9128-4820-bab5-d4e5264c40cb,Unassigned,91
+800,e1de1afe-4f03-4791-948f-2c30a204b912,Group One,179
+801,e20f4648-e5d2-4e99-b7b5-afa0e36ab874,Men,47
+802,e2a5d8c9-d2be-4965-a821-55a492117483,Potential Guests (UK),77
+803,e31f64dc-4eef-45c1-b4a2-d3bc4432d9c4,Unassigned,42
+804,e3785321-9d0c-46be-b6b1-6ef0031591a3,Another Group,95
+805,e383e47e-90c2-4fd6-a2f3-41f0ce921b54,Chinese Participants,101
+806,e38708f3-4ddb-4db8-ad62-8e72b9de9432,Participants,187
+807,e3aeeef7-3617-4b7b-81ad-a8fd507b329c,Chinese Participants,262
+808,e3e6cb7a-d246-40ec-841b-6007e168d5b2,M-N,66
+809,e4015794-d962-4a9a-be62-762786979d0e,Puerto Rican American families,237
+810,e402970e-d2af-4a28-aba0-da617862fe59,Connecticut Participants,265
+811,e4197cfd-7c9f-4e63-bebc-8942b8d2dc1f,Edina (Control),190
+812,e4391a01-c66e-4778-af21-e400d3c61c2d,Chinese Participants,279
+813,e473a5d7-8fde-4ddc-aa1d-391437b46b48,Unassigned,184
+814,e47d3563-df7c-4c9d-aafb-ff2b26bd28ca,Michigan AACM,280
+815,e4e95161-e829-494a-82c8-51fe14526fa1,Unassigned,204
+816,e4fdbfb2-a342-401a-b9f1-26b37e851757,Group 1,30
+817,e504291f-07fb-46de-b552-b21e623569ba,College fans only,7
+818,e5044ba8-cb39-4152-8e91-75408ee46ab5,Unassigned,167
+819,e51f40e9-af37-4aef-a4da-a085913888cc,High Value 35-44,156
+820,e5210b81-c930-42a9-9ccf-c90d65c3788c,New Guests,33
+821,e52f7874-337e-4f98-8634-cc309abea2d0,Essential Workers,209
+822,e5f7b3d7-7559-48a5-aa5d-98938dc8328f,Non Freshmen,184
+823,e6605815-669e-4db5-b60f-6622f7eea9f8,Group 1,89
+824,e66f6f15-1083-4697-92e3-2ae6933050df,Unassigned,1
+825,e681068e-6d42-40ea-8dae-42c1bcd9e7ff,Unassigned,258
+826,e6fd7bd2-b624-41b3-9ab4-2724c1c5536d,Unassigned,197
+827,e72b4942-972b-4a61-8402-3b4f8cd2e13a,Third Group,254
+828,e72c462f-1491-40c3-a0d5-c85f05e72c72,Skin Care Lovers,15
+829,e75cae88-23af-4e67-90c1-5a89ebab1a72,American Participants,74
+830,e760d544-d2bc-4a20-b0bb-008e6f4d8eed,Gen Y Fashion,273
+831,e789bb86-70d6-4152-a606-7a2924661142,Freshmen,153
+832,e7b78e89-2ff3-4626-a2e1-71af9ad005a7,UK B,208
+833,e7bf6b45-2e6c-444e-b1da-398ddf676db7,Heavy Users,27
+834,e7cfb167-b6bf-438f-aea0-a1755dfe2a18,Canada B,208
+835,e7df18e9-a125-4d26-93eb-4c7aaf0f570c,Millennials,34
+836,e8428f5d-140b-4b61-97a1-6b1ba92e0c97,Unassigned,190
+837,e8e039e1-0406-4586-86fc-2e2299ab7afb,Participants,127
+838,e9305e55-3559-4273-bf89-ae56b7a15679,Regulars,216
+839,e956d054-56c0-4af1-aaed-84cbd6baa30d,NMOC,75
+840,e9827990-1314-415f-8fba-01365278ba7d,Freshmen,184
+841,e992cd3a-58d4-4eb8-ae08-7aed1b480440,China MVG - Female,219
+842,e9a01ba1-f242-4a4a-abee-b424ff781831,UK HC - Male,219
+843,e9d9ed4b-e4ee-4b0b-bc73-9500932e20e8,Unassigned,74
+844,ea04dbba-762c-46b7-a8a0-ef0b07bce47e,Unnamed,262
+845,ea35fa8d-c5d6-45f0-bac4-bee53e9a0884,Bob,218
+846,ea39982d-234e-46ad-a999-9367995bb63a,China HC - Female,219
+847,ea43ee03-4843-4214-ba43-a2a75bbf57e3,Not Currently Participating in CEP,238
+848,ea4f5947-01e7-45a2-ad95-5a9ac101641d,French Participants,99
+849,eab6ab2b-b403-49c6-b8a2-c0e6d4c75aff,Review Group,44
+850,eab9bdfd-93bb-4366-98ec-4c7659b41006,Unassigned,270
+851,ead4ca5e-f2b8-4ace-97a1-eb46dbb443ef,Users,105
+852,eae29293-3e25-45aa-90d4-9e4180f100e9,Fights Aging Online,181
+853,eafbfb86-f8a0-4de5-8c58-ccd16d01134e,Men,80
+854,eafe3444-4455-4b8d-be23-fd194ac57e90,Unassigned,77
+855,eb183cff-cc95-4fb2-9f9e-cb9f045c3c97,French Participants,72
+856,eb20ca96-7c76-4059-a3ee-c179121db1c7,Purebred puppy owners,29
+857,eb81f795-257e-4f32-b3aa-169c47626d9a,Unassigned,49
+858,ebc7d310-ce1e-4d38-b7fd-214afa86c144,46-60,220
+859,ec2ce65f-1cde-4ac8-83be-ffdbc98b1d46,Unassigned,308
+860,ecac0198-a779-4f36-9749-0a0f22e291a1,GRUPPO,254
+861,ecd85942-3f4f-4164-9656-4e2d42eaf957,4 Bilingual Medium-Heavy Drinker,246
+862,ece21ee0-d3b9-4c5f-99c4-e4f2a3cf8435,Unassigned,251
+863,ed09ed06-d7a8-44d1-9fc5-99c9681949e3,Alphas,113
+864,ed4b0c39-1ed1-4559-ba81-a971294e0b7e,UK,208
+865,ed9c3700-d215-4e25-aa6d-b37492830ae4,Betas 1,111
+866,edfefc54-0a36-40a3-b065-24e8721dc832,Holistic Offline,181
+867,eea13804-33bf-4842-9138-a360f35663e3,Prime Prospects,297
+868,eec2a2a5-e1b3-487f-9d29-77f6783985b9,Shanghai - Streetwear,144
+869,eeea6d35-19a0-431e-82f2-cc9b708968b3,Pasadena (Test),190
+870,ef85e911-cb78-4e59-9773-bbca6f0ded9e,Heavy Users with Kids,91
+871,efc25a31-9c07-4afb-96f0-30f98da83730,Students,247
+872,f01544da-10a8-42a2-aefb-0f9cd66e5ba4,Athletes,281
+873,f02a2683-b0c0-448b-a76a-b04c8a3c2198,US iPhone Younger,211
+874,f03ae8cf-bb5f-4ee6-9831-2d5559503692,Unassigned,209
+875,f078cbf2-2e58-46d7-9f6e-9fbf4a25d0e0,F-G,66
+876,f094d434-6a8c-4742-89b1-65ce6c5f1c84,Freshman,149
+877,f0bb55fc-e6f8-4e53-9216-54fcc3e1855c,Potential Guest - Online (Shopping for Female),241
+878,f0bd4451-c8a7-4f04-8804-0f0cc720844f,Non-Freshman,172
+879,f0e74f8e-8e63-4d36-a504-62bd9907e823,Korean Participants,98
+880,f0eaa2b1-682c-443e-af6a-636315bd4fe1,Non-Purchaser (under 35),200
+881,f1057549-e88e-4731-8154-88767abec85a,Male Season Ticket Holders/Group Ticket Buyers,221
+882,f1316713-2fce-4b9b-82a5-9f2f9cd43297,Unassigned,205
+883,f242a64a-befa-4e54-a123-17122ce37dd8,Travelers,39
+884,f255a661-e009-4bc2-9372-608e160c47a4,Sophomores,58
+885,f316fc9d-f789-4001-9a5d-9d53aeeee8bb,Active Users,139
+886,f3314e47-d8ee-4295-8e7f-8ea964a3fd97,Michigan,229
+887,f368b6e1-306a-4999-a41b-79ae6ef07e28,Americans,88
+888,f38300d3-2993-4cd5-a371-80cfdeb1d70d,Unassigned,230
+889,f3bd853e-c0a8-414f-8e11-41fbee384561,Germany,208
+890,f3f268cc-3022-4b63-bd83-3c4ca4aa8272,Unassigned,121
+891,f43abcb3-d2d1-4e7f-8959-bd8cf2e385cd,Unassigned,16
+892,f46a1d85-b960-47a4-b4f5-db9fd1bec784,Manufacturing Business Decision Makers,94
+893,f4c18392-9fb1-4f93-813d-ad32682b7a71,Athleisure,142
+894,f4ee0cc0-e68d-41da-9422-d955f722025c,Non-Frappe Drinkers,256
+895,f4f2f8ba-ead4-40f1-857d-88ecf91ce557,Unassigned,299
+896,f514801a-a145-4a60-9d22-0b85c30aaca8,Unassigned,105
+897,f59499b8-07d8-492a-8e6d-d05e02a307c6,Shanghai - Fitness,144
+898,f6063ea0-c5ea-4431-bbc2-69331ae7e747,Dallas,272
+899,f7d0b781-7e48-46e3-b16e-bed9a4932c05,Unassigned,75
+900,f8ca2463-4649-4183-a5da-446fc4d1c61a,Chinese Participants,325
+901,f8f75115-f9c2-4d52-90a8-cf64700b2fa4,Group 2,30
+902,f91ac677-e572-4627-926a-4f4c4343268e,Ambassadors,166
+903,f96a26f4-6c40-42ad-97a5-a9cf07cb2d86,3M Offsite,217
+904,f99a4d96-9721-40ae-914a-142c26d4859f,Unassigned,107
+905,f9dcc7ec-34a9-4ab0-83c8-c41dddc27ed0,Dog Guardians,282
+906,fa367943-965c-481a-9eb2-2dae518c4be6,New,223
+907,fa7418dd-8cf2-4761-ae4e-811cd6b7ae41,Unassigned,41
+908,fa7b8519-acae-4f63-a518-fd766dda5083,C-Store,157
+909,fa841c83-9f04-4c58-ba8c-500f95d2fced,Unassigned,37
+910,faf90f8a-e79f-4c97-acaa-a3d6c914c383,Male Non-Season Ticket Holders/Non-Group Ticket Buyers,221
+911,fbc586b6-e984-49b4-a0b4-37dd600ceeaa,Participants,185
+912,fc8a63d5-b7cd-4f7c-a59f-1b8740052e7b,First Group,95
+913,fd2faf4c-6eb4-4931-bee4-1b878beb9fdc,Women,236
+914,fd3a1502-825c-4c63-8cfe-854127fd1075,Gen X Fashion,273
+915,fd409f11-22aa-4c1d-b6e3-a388ba44baf4,Participants,110
+916,fd7f1a1c-0f72-452e-9377-412ce1248a57,Participants,151
+917,fd9de2a8-7475-49e4-ac7e-b93b464e33d6,Unassigned,226
+918,fe24f479-94ad-455e-bd97-ff63c0c8f5ca,US Android Younger,211
+919,fe7e1965-91b7-40ef-a230-88ccc0833fb6,Parents of 11-14,224
+920,fe915ebb-4f34-40c8-b73a-55751ee7e792,Protein Drinkers,226
+921,feb3b38f-64c9-4bd6-a755-550a8d03952e,Shanghai,16
+922,feeb209f-d23f-4b5f-b717-99a351aec610,Mexican American families,237
+923,ff8a33d1-91e4-4baa-970b-0b54d0b3d740,Unassigned,69
+924,ffa2792d-524f-4b9f-9955-4b1b1b295bd1,Book Haters,283
+925,fff465e8-12e1-4033-9b52-bc56090290a5,Enthusiasts,141
