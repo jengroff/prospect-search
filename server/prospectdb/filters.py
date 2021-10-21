@@ -52,7 +52,7 @@ class StudyFilterSet(FilterSet):
 
     class Meta:
         model = Study
-        fields = ('query', 'start_date')
+        fields = ('query',)
 
 
 class ConversationMessageFilterSet(FilterSet):

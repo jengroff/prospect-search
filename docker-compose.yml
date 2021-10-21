@@ -16,8 +16,8 @@ services:
     container_name: prospect-database
     environment:
       - POSTGRES_DB=prospectdb
-      - POSTGRES_USER=prospectdb
-      - POSTGRES_PASSWORD=prospectdb
+      - POSTGRES_USER=josh
+      - POSTGRES_PASSWORD=Josh740808!
     image: postgres:13.2
     ports:
       - 5433:5432
@@ -39,8 +39,8 @@ services:
     environment:
       - SQL_ENGINE=django.db.backends.postgresql
       - SQL_DATABASE=prospectdb
-      - SQL_USER=prospectdb
-      - SQL_PASSWORD=prospectdb
+      - SQL_USER=josh
+      - SQL_PASSWORD=Josh740808!
       - SQL_HOST=prospect-database
       - SQL_PORT=5432
     command: [ "bash", "start.sh" ]

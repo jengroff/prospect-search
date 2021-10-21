@@ -10,8 +10,8 @@ class ProspectSerializer(serializers.ModelSerializer):
     """
     class Meta:
         model = Prospect
-        fields = ('id', 'email', 'first_name', 'last_name', 'phone', 'birthday', 'gender',
-                  'story', 'occupation', 'country', 'region', 'city', 'ethnicity', 'created_at')
+        fields = ('id', 'email', 'first_name', 'last_name', 'phone', 'gender',
+                  'story', 'occupation', 'country', 'region', 'city', 'ethnicity')
 
 
 class TeamSerializer(serializers.ModelSerializer):
@@ -21,7 +21,7 @@ class TeamSerializer(serializers.ModelSerializer):
     """
     class Meta:
         model = Team
-        fields = ('id', 'name', 'created_at')
+        fields = ('id', 'name')
 
 
 class StudySerializer(serializers.ModelSerializer):
@@ -31,7 +31,7 @@ class StudySerializer(serializers.ModelSerializer):
     """
     class Meta:
         model = Study
-        fields = ('id', 'name', 'objective', 'start_date', 'created_at', 'team_id')
+        fields = ('id', 'name', 'objective', 'team_id')
 
 
 class ConversationMessageSerializer(serializers.ModelSerializer):

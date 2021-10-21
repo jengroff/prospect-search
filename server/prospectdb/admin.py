@@ -10,7 +10,6 @@ class ProspectAdmin(admin.ModelAdmin):
               'first_name',
               'last_name',
               'phone',
-              'birthday',
               'story',
               'occupation',
               'gender',
@@ -18,7 +17,6 @@ class ProspectAdmin(admin.ModelAdmin):
               'country',
               'city',
               'region',
-              'created_at'
               )
 
     list_display = ('id',
@@ -26,7 +24,6 @@ class ProspectAdmin(admin.ModelAdmin):
                     'first_name',
                     'last_name',
                     'phone',
-                    'birthday',
                     'gender',
                     'ethnicity',
                     'country',
@@ -37,41 +34,40 @@ class ProspectAdmin(admin.ModelAdmin):
     list_filter = ('first_name',
                    'last_name',
                    'phone',
-                   'birthday',
                    'gender',
                    'ethnicity',
                    'country',
                    'city')
 
     ordering = ('last_name',)
-    readonly_fields = ('id', 'created_at')
+    readonly_fields = ('id',)
 
 
 @admin.register(Team)
 class TeamAdmin(admin.ModelAdmin):
-    fields = ('id', 'name', 'created_at')
+    fields = ('id', 'name')
     list_display = ('id', 'name')
     list_filter = 'name',
     ordering = ('name',)
-    readonly_fields = ('id', 'created_at')
+    readonly_fields = ('id',)
 
 
 @admin.register(Study)
 class StudyAdmin(admin.ModelAdmin):
-    fields = ('id', 'name', 'objective', 'start_date', 'created_at', 'team_id')
+    fields = ('id', 'name', 'objective', 'team_id')
     list_display = ('id', 'name', 'objective', 'team_id')
     list_filter = ('name', 'team_id')
     ordering = ('name',)
-    readonly_fields = ('id', 'created_at')
+    readonly_fields = ('id',)
 
 
 @admin.register(Question)
 class QuestionAdmin(admin.ModelAdmin):
-    fields = ('id', 'body', 'created_at')
+    fields = ('id', 'body')
     list_display = ('id', 'body')
     list_filter = ('body',)
     ordering = ('id',)
-    readonly_fields = ('id', 'created_at')
+    readonly_fields = ('id',)
 
 
 @admin.register(Group)
@@ -85,19 +81,19 @@ class GroupAdmin(admin.ModelAdmin):
 
 @admin.register(Participant)
 class ParticipantAdmin(admin.ModelAdmin):
-    fields = ('id', 'created_at', 'prospect_id', 'group_id')
+    fields = ('id', 'prospect_id', 'group_id')
     list_display = ('id', 'prospect_id', 'group_id')
     list_filter = ('prospect_id',)
     ordering = ('prospect_id',)
-    readonly_fields = ('id', 'created_at')
+    readonly_fields = ('id',)
 
 
 @admin.register(ConversationStream)
 class ConversationStreamAdmin(admin.ModelAdmin):
-    fields = ('id', 'created_at', 'participant_id', 'question_id')
+    fields = ('id', 'participant_id', 'question_id')
     list_display = ('id', 'participant_id', 'question_id')
     list_filter = ('participant_id', 'question_id')
-    readonly_fields = ('id', 'created_at')
+    readonly_fields = ('id',)
 
 
 @admin.register(ConversationMessage)
