@@ -1,4 +1,7 @@
 import uuid
+
+from django.contrib.postgres.indexes import GinIndex
+from django.contrib.postgres.search import SearchVectorField
 from django.db import models
 
 
@@ -80,13 +83,13 @@ class ConversationStream(models.Model):
 class ConversationMessage(models.Model):
     id = models.IntegerField(primary_key=True, editable=False)
     text = models.TextField(null=True)
-    conversation_stream_id = models.ForeignKey(
-        ConversationStream,
-        on_delete=models.CASCADE,
-        related_name="groups",
-        related_query_name="group",
-        null=True
-    )
+    conversation_stream_id = models.ForeignKey(ConversationStream, on_delete=models.CASCADE, null=True)
+    search_vector = SearchVectorField(null=True, blank=True)
+
+    class Meta:
+        indexes = [
+            GinIndex(fields=['search_vector'], name='search_vector_index')
+        ]
 
     def __str__(self):
         return f'{self.id}'

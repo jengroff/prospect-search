@@ -1,4 +1,5 @@
-from django.db.models import Q
+from django.contrib.postgres.search import SearchQuery, SearchVector, SearchRank
+from django.db.models import F, Q
 
 from django_filters.rest_framework import CharFilter, FilterSet
 
@@ -17,11 +18,11 @@ class ProspectFilterSet(FilterSet):
 
     def filter_query(self, queryset, name, value):
         search_query = Q(
-            Q(email__contains=value) |
-            Q(last_name__contains=value) |
-            Q(phone__contains=value)
+            Q(search_vector=SearchQuery(value))
         )
-        return queryset.filter(search_query)
+        return queryset.annotate(
+            search_vector=SearchVector('email', 'last_name', 'phone')
+        ).filter(search_query)
 
     class Meta:
         model = Prospect
@@ -33,10 +34,15 @@ class TeamFilterSet(FilterSet):
 
     def filter_query(self, queryset, name, value):
         search_query = Q(
-            Q(id__contains=value) |
-            Q(name__contains=value)
+            Q(search_vector=SearchQuery(value))
         )
-        return queryset.filter(search_query)
+        return queryset.annotate(
+            search_vector=SearchVector('id', 'name')
+        ).filter(search_query)
+
+    class Meta:
+        model = Team
+        fields = ('query',)
 
 
 class StudyFilterSet(FilterSet):
@@ -44,11 +50,11 @@ class StudyFilterSet(FilterSet):
 
     def filter_query(self, queryset, name, value):
         search_query = Q(
-            Q(id__contains=value) |
-            Q(name__contains=value) |
-            Q(team_id__contains=value)
+            Q(search_vector=SearchQuery(value))
         )
-        return queryset.filter(search_query)
+        return queryset.annotate(
+            search_vector=SearchVector('id', 'name', 'team_id')
+        ).filter(search_query)
 
     class Meta:
         model = Study
@@ -60,6 +66,12 @@ class ConversationMessageFilterSet(FilterSet):
 
     def filter_query(self, queryset, name, value):
         search_query = Q(
-            Q(text__contains=value)
+            Q(search_vector=SearchQuery(value))
         )
-        return queryset.filter(search_query)
+        return queryset.annotate(
+            search_rank=SearchRank(F('search_vector'), SearchQuery(value))
+        ).filter(search_query).order_by('-search_rank', 'id')
+
+    class Meta:
+        model = ConversationMessage
+        fields = ('query',)
