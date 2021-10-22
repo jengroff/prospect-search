@@ -39,6 +39,13 @@ class ConversationMessageSerializer(serializers.ModelSerializer):
     This code tells the server how to serialize a ConversationMessage
     entity from a database entry to a JSON string.
     """
+    text = serializers.SerializerMethodField()
+
+    def get_text(self, obj):
+        if hasattr(obj, 'text_headline'):
+            return getattr(obj, 'text_headline')
+        return getattr(obj, 'text')
+
     class Meta:
         model = ConversationMessage
         fields = ('id', 'text', 'conversation_stream_id')
