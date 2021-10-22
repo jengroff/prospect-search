@@ -33,3 +33,6 @@ class ConversationMessageView(ListAPIView):
     queryset = ConversationMessage.objects.all()
     serializer_class = ConversationMessageSerializer
     filterset_class = ConversationMessageFilterSet
+
+    def filter_queryset(self, request):
+        return super().filter_queryset(request)[:10]

@@ -93,3 +93,10 @@ class ConversationMessage(models.Model):
 
     def __str__(self):
         return f'{self.id}'
+
+
+class ConversationMessageWord(models.Model):
+    word = models.TextField(unique=True)
+
+    def __str__(self):
+        return self.word

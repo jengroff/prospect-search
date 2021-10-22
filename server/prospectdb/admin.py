@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Prospect, Team, Study, Question, Participant, Group, ConversationStream, ConversationMessage
+from .models import Prospect, Team, Study, Question, Participant, Group, ConversationStream, ConversationMessage, ConversationMessageWord
 
 
 @admin.register(Prospect)
@@ -103,3 +103,10 @@ class ConversationMessageAdmin(admin.ModelAdmin):
     list_filter = ('text', 'conversation_stream_id')
     ordering = ('id',)
     readonly_fields = ('id',)
+
+
+@admin.register(ConversationMessageWord)
+class ConversationMessageWordAdmin(admin.ModelAdmin):
+    fields = ('word',)
+    list_display = ('word',)
+    ordering = ('word',)
