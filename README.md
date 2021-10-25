@@ -19,7 +19,6 @@ docker-compose exec server python manage.py makemigrations prospectdb
 ```
 docker-compose exec server python manage.py migrate
 ```
-
 ## Create a superuser in order to access the Admin panel:
 ```
 docker-compose exec server python manage.py createsuperuser
