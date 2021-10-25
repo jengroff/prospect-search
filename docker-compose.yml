@@ -4,7 +4,7 @@ version: "3.8"
 
 # the database service uses a base postgres image without adding any new commands,
 # which means we don't need a "db" directory or db-specific Dockerfile
-# it also mops port 5432 locally
+# it also maps port 5432 locally
 
 # using 'volumes' in both services lets us store data outside of the container lifecycle.
 # otherwise, when we stop the Docker container and start it again, everything would
