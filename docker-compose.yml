@@ -1,5 +1,3 @@
-# docker-compose.yml
-
 version: "3.8"
 
 # the database service uses a base postgres image without adding any new commands,
@@ -12,6 +10,7 @@ version: "3.8"
 
 services:
 
+
   database:
     container_name: prospect-database
     environment:
@@ -21,14 +20,22 @@ services:
     image: postgres:13.2
     ports:
       - 5433:5432
-    expose:
-      - 5432
     volumes:
       - prospect-database:/var/lib/postgresql/data
 
 
-# the 'environment' property defines env variables to be used in the
-#  server container's runtime environment
+  elasticsearch:
+    container_name: prospect-search-elasticsearch
+    environment:
+      - ES_JAVA_OPTS=-Xms2g -Xmx2g
+      - bootstrap.memory_lock=true
+      - discovery.type=single-node
+    image: elasticsearch:7.10.1
+    ports:
+      - 9200:9200
+    volumes:
+      - prospect-search-elasticsearch:/usr/share/elasticsearch/data
+
 
   server:
     build:
@@ -36,6 +43,7 @@ services:
     container_name: prospect-server
     depends_on:
       - database
+      - elasticsearch
     environment:
       - SQL_ENGINE=django.db.backends.postgresql
       - SQL_DATABASE=prospectdb
@@ -43,11 +51,27 @@ services:
       - SQL_PASSWORD=Josh740808!
       - SQL_HOST=prospect-database
       - SQL_PORT=5432
+      - ES_HOSTS=http://prospect-search-elasticsearch:9200
     command: [ "bash", "start.sh" ]
     ports:
       - 8003:8000
     volumes:
       - ./server:/usr/src/app
 
+
+  client:
+    build:
+      context: ./client
+    command: [ "npm", "start" ]
+    container_name: prospect-search-client
+    depends_on:
+      - server
+    ports:
+      - 3000:3000
+    volumes:
+      - ./client:/usr/src/app
+
+
 volumes:
   prospect-database:
+  prospect-search-elasticsearch:

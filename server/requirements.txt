@@ -7,3 +7,4 @@ django-debug-toolbar==3.2
 pytest-django
 pytest-cov
 factory-boy
+django-cors-headers==3.7.0
