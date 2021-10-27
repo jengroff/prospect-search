@@ -1,5 +1,5 @@
 # Natural Language Search App
-### Partially-documented Django app for querying Participant database and associated study responses.
+### Django app for querying Participant database and associated study responses.
 ---
 
 # Run the app ->
