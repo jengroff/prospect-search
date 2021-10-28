@@ -1,0 +1,84 @@
+version: "3.8"
+
+services:
+
+
+  database:
+    container_name: prospect-database-prod
+    environment:
+      - POSTGRES_DB=prospectdb
+      - POSTGRES_USER=josh
+      - POSTGRES_PASSWORD=Josh740808!
+    image: postgres:13.2
+    ports:
+      - 5433:5432
+    volumes:
+      - prospect-database-prod:/var/lib/postgresql/data
+
+
+  elasticsearch:
+    container_name: prospect-search-elasticsearch-prod
+    environment:
+      - ES_JAVA_OPTS=-Xms2g -Xmx2g
+      - bootstrap.memory_lock=true
+      - discovery.type=single-node
+    image: elasticsearch:7.10.1
+    ports:
+      - 9200:9200
+    volumes:
+      - prospect-search-elasticsearch-prod:/usr/share/elasticsearch/data
+
+
+  server:
+    build:
+      context: ./server
+    container_name: prospect-server-prod
+    depends_on:
+      - database
+      - elasticsearch
+    environment:
+      - SQL_ENGINE=django.db.backends.postgresql
+      - SQL_DATABASE=prospectdb
+      - SQL_USER=josh
+      - SQL_PASSWORD=Josh740808!
+      - SQL_HOST=prospect-database-prod
+      - SQL_PORT=5432
+      - ES_HOSTS=http://prospect-search-elasticsearch-prod:9200
+    command: [ "bash", "start.sh" ]
+    ports:
+      - 8003:8000
+    volumes:
+      - ./server:/usr/src/app
+      - static:/usr/src/app/static
+
+
+  client:
+    build:
+      context: ./client
+    command: [ "npm", "start" ]
+    container_name: prospect-search-client-prod
+    depends_on:
+      - server
+    ports:
+      - 3000:3000
+    volumes:
+      - ./client:/usr/src/app
+
+
+  reverse-proxy:
+    build:
+      context: ./reverse-proxy
+    container_name: prospect-search-reverse-proxy
+    depends_on:
+      - server
+      - client
+    ports:
+      - 8003:80
+    restart: always
+    volumes:
+      - static:/usr/src/app/static
+
+
+volumes:
+  prospect-database:
+  prospect-search-elasticsearch:

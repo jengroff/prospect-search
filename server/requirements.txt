@@ -8,3 +8,4 @@ pytest-django
 pytest-cov
 factory-boy
 django-cors-headers==3.7.0
+gunicorn==20.0.4
