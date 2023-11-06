@@ -7,7 +7,7 @@ class Command(BaseCommand):
     help = 'Creates an Elasticsearch index.'
 
     def handle(self, *args, **kwargs):
-        index = 'messages'
+        index = 'prospects'
         self.stdout.write(f'Creating index "{index}"...')
         connection = connections.get_connection()
         if connection.indices.exists(index=index):

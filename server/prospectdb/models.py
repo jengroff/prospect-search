@@ -1,8 +1,11 @@
 import uuid
 
 from django.contrib.postgres.indexes import GinIndex
-from django.contrib.postgres.search import SearchVectorField
+from django.contrib.postgres.search import (
+    SearchQuery, SearchRank, SearchVectorField, TrigramSimilarity
+)
 from django.db import models
+from django.db.models import F, Q
 
 
 class Team(models.Model):
@@ -11,6 +14,20 @@ class Team(models.Model):
 
     def __str__(self):
         return f'{self.name}'
+
+
+class ProspectQuerySet(models.query.QuerySet):
+    def search(self, query):
+        search_query = Q(
+            Q(search_vector=SearchQuery(query))
+        )
+        return self.annotate(
+            country_headline=SearchHeadline(F('country'), SearchQuery(query)),
+            gender_headline=SearchHeadline(F('gender'), SearchQuery(query)),
+            city_headline=SearchHeadline(F('city'), SearchQuery(query)),
+            ethnicity_headline=SearchHeadline(F('ethnicity'), SearchQuery(query)),
+            search_rank=SearchRank(F('search_vector'), SearchQuery(query))
+        ).filter(search_query).order_by('-search_rank', 'id')
 
 
 class Prospect(models.Model):
@@ -26,9 +43,39 @@ class Prospect(models.Model):
     region = models.CharField(max_length=255, null=True)
     city = models.CharField(max_length=255, null=True)
     ethnicity = models.CharField(max_length=255, null=True)
+    search_vector = SearchVectorField(null=True, blank=True)
+
+    objects = ProspectQuerySet.as_manager()
+
+    class Meta:
+        indexes = [
+            GinIndex(fields=['search_vector'], name='prospect_search_vector_index')
+        ]
 
     def __str__(self):
         return f'{self.email}'
+
+
+class ProspectSearchWordQuerySet(models.query.QuerySet):
+    def search(self, query):
+        return self.annotate(
+            similarity=TrigramSimilarity('word', query)
+        ).filter(similarity__gte=0.3).order_by('-similarity')
+
+
+class ProspectSearchWord(models.Model):
+    word = models.CharField(max_length=255, unique=True)
+
+    objects = ProspectSearchWordQuerySet.as_manager()
+
+    def __str__(self):
+        return self.word
+
+
+class SearchHeadline(models.Func):
+    function = 'ts_headline'
+    output_field = models.TextField()
+    template = '%(function)s(%(expressions)s, \'StartSel = <mark>, StopSel = </mark>, HighlightAll=TRUE\')'
 
 
 class Study(models.Model):

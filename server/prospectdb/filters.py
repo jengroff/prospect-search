@@ -3,14 +3,14 @@ from django.db.models import CharField, F, Func, Q, TextField, Value
 
 from django_filters.rest_framework import CharFilter, FilterSet
 
-from .models import Prospect, Team, Study, ConversationMessage
+from .models import Prospect, Team, Study, ConversationMessage, ProspectSearchWord
 
 
 class ProspectFilterSet(FilterSet):
     """
     This class transcribes query string parameters into SQL queries
     via the Django ORM. The query searches for all documents that
-    contain the value in the email, last_name, or phone fields.
+    contain the value in the city, ethnicity, or gender fields.
     The database query is filtered further by country and gender,
     if they are also present in the HTTP request.
     """
@@ -21,12 +21,23 @@ class ProspectFilterSet(FilterSet):
             Q(search_vector=SearchQuery(value))
         )
         return queryset.annotate(
-            search_vector=SearchVector('email', 'last_name', 'phone')
+            search_vector=SearchVector('city', 'ethnicity', 'gender')
         ).filter(search_query)
 
     class Meta:
         model = Prospect
-        fields = ('query', 'city', 'country')
+        fields = ('query', 'last_name', 'phone')
+
+
+class ProspectSearchWordFilterSet(FilterSet):
+    query = CharFilter(method='filter_query')
+
+    def filter_query(self, queryset, name, value):
+        return queryset.search(value)
+
+    class Meta:
+        model = ProspectSearchWord
+        fields = ('query',)
 
 
 class TeamFilterSet(FilterSet):
